@@ -28,6 +28,8 @@ namespace Eagles_Website.Controllers
         // GET: ProductController/Create
         public ActionResult Create()
         {
+            var Categories = UnitOFWork.CategoryRepo.GetAll().ToList();
+            ViewData["CategoryList"] = Categories.ToList();
             return View();
         }
 
