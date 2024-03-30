@@ -1,18 +1,24 @@
 ﻿@model Eagles_Website.ViewModels.ProductCategoryViewModel
 
 @{
-    ViewData["Title"] = "Create";
-    SelectList CategoriesList = new SelectList(Model.Categories,"ID","Name");
+    ViewData["Title"] = "Edit";
+    SelectList CategoriesList = new SelectList(Model.Categories, "ID", "Name");
+
 }
 
-<h1>Create</h1>
+<h1>Edit</h1>
 
 <h4>Product</h4>
 <hr />
 <div class="row">
     <div class="col-md-4">
-        <form asp-action="Create" enctype="multipart/form-data">
-            <div asp-validation-summary="All" class="text-danger"></div>
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="@Model.Product.ID" class="control-label"></label>
+                <input asp-for="@Model.Product.ID" class="form-control" />
+                <span asp-validation-for="@Model.Product.ID" class="text-danger"></span>
+            </div>
             <div class="form-group">
                 <label asp-for="@Model.Product.Name" class="control-label"></label>
                 <input asp-for="@Model.Product.Name" class="form-control" />
@@ -28,10 +34,6 @@
                 <input asp-for="@Model.Product.Description" class="form-control" />
                 <span asp-validation-for="@Model.Product.Description" class="text-danger"></span>
             </div>
-            @* <div class="form-group">
-                <label class="control-lable">Image</label>
-                <input type="file" name="Image" class="control-file"/>
-            </div> *@
             <div class="form-group">
                 <label asp-for="@Model.Product.Quantity" class="control-label"></label>
                 <input asp-for="@Model.Product.Quantity" class="form-control" />
@@ -42,19 +44,19 @@
                 <select asp-for="@Model.Product.CategoryId"
                         asp-items="CategoriesList"
                         class="form form-control">
-                        <option value="0"> ---Select Category --- </option>
+                    <option value="0"> ---Select Category --- </option>
                 </select>
                 <span asp-validation-for="@Model.Product.CategoryId" class="text-danger"></span>
             </div><br />
             <div class="form-group">
                 <label asp-for="@Model.Product.Image" class="control-label"></label>
+                <img src="~/Images/Product/@Model.Product.ImageUrl" />
                 <input asp-for="@Model.Product.Image" class="form-control" />
                 <span asp-validation-for="@Model.Product.Image" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
+                <input type="submit" value="Save" class="btn btn-primary" />
             </div>
-           
         </form>
     </div>
 </div>

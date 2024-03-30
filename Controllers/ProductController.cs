@@ -1,5 +1,7 @@
 ﻿using Eagles_Website.Models;
 using Eagles_Website.Repository.IRepository;
+using Eagles_Website.ViewModels;
+using EaglesWebsite.Migrations;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -8,29 +10,38 @@ namespace Eagles_Website.Controllers
     public class ProductController : Controller
     {
         private readonly IUnitOFWork UnitOFWork;
-        public ProductController(IUnitOFWork UnitOFWork)
+        private readonly IWebHostEnvironment WebHostEnvironment;
+
+        public ProductController(IUnitOFWork UnitOFWork, IWebHostEnvironment WebHostEnvironment)
         {
             this.UnitOFWork = UnitOFWork;
+            this.WebHostEnvironment = WebHostEnvironment;
         }
         // GET: ProductController
         public ActionResult Index()
         {
-            var Products = UnitOFWork.ProductRepo.GetAll().ToList();
+            var Products = UnitOFWork.ProductRepo.GetAll();
             return View("Index", Products);
         }
 
         // GET: ProductController/Details/5
-        public ActionResult Details(int id)
+        public ActionResult Details(Product Product)
         {
-            return View();
+            if (Product != null)
+            {
+                return View("Details", Product);
+            }
+            else
+            {
+                return RedirectToAction("Index");
+            }
         }
 
         // GET: ProductController/Create
         public ActionResult Create()
         {
-            var Categories = UnitOFWork.CategoryRepo.GetAll().ToList();
-            ViewData["CategoryList"] = Categories.ToList();
-            return View();
+            ProductCategoryViewModel model = UnitOFWork.ProductRepo.GetProductWithCategories();
+            return View("Create",model);
         }
 
         // POST: ProductController/Create
@@ -38,58 +49,86 @@ namespace Eagles_Website.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Create(Product Product)
         {
-            try
-            {
-                UnitOFWork.ProductRepo.add(Product);
-                UnitOFWork.ProductRepo.save();
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
+            
+                if (ModelState.IsValid)
+                {
+                    if (Product.CategoryId == 0)
+                    {
+                        ModelState.AddModelError("", "Please Select Department");
+                        ProductCategoryViewModel model = UnitOFWork.ProductRepo.GetProductWithCategories();
+                        return View("Create", model);
+                    }
+                else
+                    {
+                        if (Product.Image != null)
+                        {
+                            string UploadPath = Path.Combine(WebHostEnvironment.WebRootPath, "Images", "Product");
+                            string ImageName = Guid.NewGuid().ToString() + "_" + Product.Image.FileName;
+                            string FilePath = Path.Combine(UploadPath, ImageName);
+                            using (FileStream FileStream = new FileStream(FilePath, FileMode.Create))
+                            {
+                                Product.Image.CopyTo(FileStream);
+                            }
+
+                            Product.ImageUrl = ImageName;
+                        }
+
+                        UnitOFWork.ProductRepo.add(Product);
+                        UnitOFWork.ProductRepo.save();
+                        return RedirectToAction(nameof(Index));
+                    }
+
+
+                }
+                else
+                {
+                    ModelState.AddModelError("", "Please Enter Invalid Data");
+                    ProductCategoryViewModel model = UnitOFWork.ProductRepo.GetProductWithCategories();
+                    return View("Create", model);
+                }
         }
 
         // GET: ProductController/Edit/5
-        public ActionResult Edit(int id)
+        public ActionResult Edit(Product product)
         {
-            return View();
+            ProductCategoryViewModel model = UnitOFWork.ProductRepo.GetProductWithCategories();
+            model.Product = product;
+            return View("Edit",model);
         }
 
-        // POST: ProductController/Edit/5
+        ////POST: ProductController/Edit/5
+        //[HttpPost]
+        //[ValidateAntiForgeryToken]
+        //public ActionResult Edit(ProductCategoryViewModel model)
+        //{
+        //    if (ModelState.IsValid)
+        //    {
+
+        //    }
+
+        //}
+
+
+        [HttpGet]
+        public ActionResult Delete(Product product) {
+
+            return View("Delete", product);
+        }
+
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
-        {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
-        }
-
-        // GET: ProductController/Delete/5
         public ActionResult Delete(int id)
         {
-            return View();
-        }
+            Product Product = UnitOFWork.ProductRepo.Get(p => p.ID == id);
+            if (Product != null)
+            {
+                UnitOFWork.ProductRepo.remove(Product);
+                UnitOFWork.ProductRepo.save();
+                return RedirectToAction("Index");
+            }
 
-        // POST: ProductController/Delete/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
-        {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
+            return RedirectToAction("Index");
+
         }
     }
 }

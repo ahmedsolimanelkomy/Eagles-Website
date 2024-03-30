@@ -22,11 +22,14 @@ namespace Eagles_Website.Models
 
         public int Quantity { get; set; }
 
-        [ForeignKey("Category")]
+        [ForeignKey("Category"),Required]
         public int CategoryId { get; set; }
 
         //Navigation Properties
         public Category? Category { get; set; }
+
+        [NotMapped]
+        public IFormFile? Image { set; get; }
 
 
 

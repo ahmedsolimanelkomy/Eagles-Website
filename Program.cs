@@ -1,6 +1,7 @@
 using Eagles_Website.Models;
 using Eagles_Website.Repository;
 using Eagles_Website.Repository.IRepository;
+using Eagles_Website.ViewModels;
 using Microsoft.EntityFrameworkCore;
 
 namespace Eagles_Website
@@ -25,6 +26,7 @@ namespace Eagles_Website
                    options.IdleTimeout = TimeSpan.FromMinutes(30);
                });
             builder.Services.AddScoped<IUnitOFWork, UnitOfWork>();
+            builder.Services.AddScoped<ProductCategoryViewModel, ProductCategoryViewModel>();
            
             var app = builder.Build();
 
