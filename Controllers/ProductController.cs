@@ -1,9 +1,11 @@
 ﻿using Eagles_Website.Models;
+using Eagles_Website.Repository;
 using Eagles_Website.Repository.IRepository;
 using Eagles_Website.ViewModels;
 using EaglesWebsite.Migrations;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
 namespace Eagles_Website.Controllers
 {
@@ -20,7 +22,7 @@ namespace Eagles_Website.Controllers
         // GET: ProductController
         public ActionResult Index()
         {
-            var Products = UnitOFWork.ProductRepo.GetAll();
+            List<Product> Products = UnitOFWork.ProductRepo.GetAll().ToList();
             return View("Index", Products);
         }
 
@@ -96,17 +98,60 @@ namespace Eagles_Website.Controllers
             return View("Edit",model);
         }
 
-        ////POST: ProductController/Edit/5
-        //[HttpPost]
-        //[ValidateAntiForgeryToken]
-        //public ActionResult Edit(ProductCategoryViewModel model)
-        //{
-        //    if (ModelState.IsValid)
-        //    {
+        //POST: ProductController/Edit/5
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult SaveEdit(Product Product)
+        {
+            if (ModelState.IsValid && Product != null)
+            {
+                if (Product.Image != null)
+                {
+                    string UploadPath = Path.Combine(WebHostEnvironment.WebRootPath, "Images", "Product");
+                    if(Product.ImageUrl!= null)
+                    {
+                        string ImageName = Product.ImageUrl;
+                        string FilePath = Path.Combine(UploadPath, ImageName);
 
-        //    }
+                        if (System.IO.File.Exists(FilePath))
+                        {
+                            try
+                            {
+                                System.IO.File.Delete(FilePath);
+                            }
+                            catch (Exception ex)
+                            {
+                                ModelState.AddModelError("", "Error deleting image: " + ex.Message);
+                                return View(Product);
+                            }
+                        }
+                        else
+                        {
+                            ModelState.AddModelError("", "File Not Found");
+                            return View(Product);
+                        }
+                    }
+                    else
+                    {
+                        string ImageName = Guid.NewGuid().ToString() + "_" + Product.Image.FileName;
+                        string FilePath = Path.Combine(UploadPath, ImageName);
+                        Product.ImageUrl = ImageName;
+                        using (FileStream FileStream = new FileStream(FilePath, FileMode.Create))
+                        {
+                            Product.Image.CopyTo(FileStream);
+                        }
+                    } 
+                }
 
-        //}
+                UnitOFWork.ProductRepo.update(Product);
+                UnitOFWork.ProductRepo.save();
+
+                return RedirectToAction(nameof(Index));
+            }
+
+            return View(Product);
+        }
+
 
 
         [HttpGet]
