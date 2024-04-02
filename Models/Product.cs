@@ -17,7 +17,6 @@ namespace Eagles_Website.Models
 
         [StringLength(500, MinimumLength = 5, ErrorMessage = "Product Name length Must be from 5 to 50 char ")]
         public string? Description { get; set; }
-
         public string? ImageUrl { get; set; }
 
         public int Quantity { get; set; }

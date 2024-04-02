@@ -18,7 +18,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
     <!-- script
     ================================================== -->
-    <script src="js/modernizr.js"></script>
+    <script src="/js/modernizr.js"></script>
   </head>
   <body data-bs-spy="scroll" data-bs-target="#navbar" data-bs-root-margin="0px 0px -40%" data-bs-smooth-scroll="true" tabindex="0">
     <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
@@ -155,7 +155,7 @@
                   <a class="nav-link me-4" asp-controller="Product" asp-action="index">Products</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link me-4" href="#mobile-products">Categories</a>
+                  <a class="nav-link me-4" asp-controller="Category" asp-action="Index">Categories</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link me-4" href="#smart-watches">Orders</a>
@@ -227,58 +227,27 @@
           </div>
         </div>
       </nav>
-    </header>
-    @RenderBody()
+</header>
+
+<section id="billboard" class="overflow-hidden bg-light-blue container-fluid" style="padding-top:10%">
+    <div class="swiper main-swiper">
+        <div class="swiper-wrapper">
+            <div class="container">
+                <main role="main" class="pb-3">
+                    @RenderBody()
+                </main>
+            </div>
+        </div>
+    </div>
+</section>
+
     @* 
     <section id="billboard" class="position-relative overflow-hidden bg-light-blue">
-      <div class="swiper main-swiper">
-        <div class="swiper-wrapper">
-          <div class="swiper-slide">
-            <div class="container">
-              <div class="row d-flex align-items-center">
-                <div class="col-md-6">
-                  <div class="banner-content">
-                    <h1 class="display-2 text-uppercase text-dark pb-5">Your Products Are Great.</h1>
-                    <a href="shop.html" class="btn btn-medium btn-dark text-uppercase btn-rounded-none">Shop Product</a>
-                  </div>
-                </div>
-                <div class="col-md-5">
-                  <div class="image-holder">
-                    <img src="/Images/banner-image.png" alt="banner">
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="container">
-              <div class="row d-flex flex-wrap align-items-center">
-                <div class="col-md-6">
-                  <div class="banner-content">
-                    <h1 class="display-2 text-uppercase text-dark pb-5">Technology Hack You Won't Get</h1>
-                    <a href="shop.html" class="btn btn-medium btn-dark text-uppercase btn-rounded-none">Shop Product</a>
-                  </div>
-                </div>
-                <div class="col-md-5">
-                  <div class="image-holder">
-                    <img src="/Images/banner-image.png" alt="banner">
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
+        <div class="container">
+            <main role="main" class="pb-3">
+                @RenderBody()
+            </main>
         </div>
-      </div>
-      <div class="swiper-icon swiper-arrow swiper-arrow-prev">
-        <svg class="chevron-left">
-          <use xlink:href="#chevron-left" />
-        </svg>
-      </div>
-      <div class="swiper-icon swiper-arrow swiper-arrow-next">
-        <svg class="chevron-right">
-          <use xlink:href="#chevron-right" />
-        </svg>
-      </div>
     </section>
     <section id="company-services" class="padding-large">
       <div class="container">

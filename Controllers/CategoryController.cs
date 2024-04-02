@@ -1,36 +1,62 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Eagles_Website.Models;
+using Eagles_Website.Repository.IRepository;
+using Eagles_Website.ViewModels;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Eagles_Website.Controllers
 {
     public class CategoryController : Controller
     {
+        private readonly IUnitOFWork UnitOFWork;
+
+        public CategoryController(IUnitOFWork UnitOFWork)
+        {
+            this.UnitOFWork = UnitOFWork;
+        }
         // GET: CategoryController
         public ActionResult Index()
         {
-            return View();
+            List<Category> Categories = UnitOFWork.CategoryRepo.GetAll().ToList();
+            return View("Index",Categories);
         }
 
         // GET: CategoryController/Details/5
-        public ActionResult Details(int id)
+        public ActionResult Details(Category Category)
         {
-            return View();
+            Category CategoryRepository = UnitOFWork.CategoryRepo.Get(C => C.ID == Category.ID, "Products");
+            CategoryWithProductList CategoryVM = new CategoryWithProductList();
+            CategoryVM.ID = CategoryRepository.ID;
+            CategoryVM.Name = CategoryRepository.Name;
+            CategoryVM.Description = CategoryRepository.Description;
+            CategoryVM.Products = CategoryRepository.Products;
+
+            return View("Details", CategoryVM);
         }
 
         // GET: CategoryController/Create
         public ActionResult Create()
         {
-            return View();
+            return View("Create");
         }
 
         // POST: CategoryController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
+        public ActionResult Create(Category Category)
         {
             try
             {
-                return RedirectToAction(nameof(Index));
+                if (ModelState.IsValid)
+                {
+                    UnitOFWork.CategoryRepo.add(Category);
+                    UnitOFWork.CategoryRepo.save();
+                    return RedirectToAction(nameof(Index));
+                }
+                else
+                {
+                    return View("Create");
+                }
             }
             catch
             {
@@ -39,19 +65,29 @@ namespace Eagles_Website.Controllers
         }
 
         // GET: CategoryController/Edit/5
-        public ActionResult Edit(int id)
+        public ActionResult Edit(int ID)
         {
-            return View();
+            Category Category = UnitOFWork.CategoryRepo.Get(C => C.ID == ID);
+            return View("Edit",Category);
         }
 
         // POST: CategoryController/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
+        public ActionResult Edit(Category Category)
         {
             try
             {
-                return RedirectToAction(nameof(Index));
+                if (ModelState.IsValid)
+                {
+                    UnitOFWork.CategoryRepo.update(Category);
+                    UnitOFWork.CategoryRepo.save();
+                    return RedirectToAction(nameof(Index));
+                }
+                else
+                {
+                    return View("Edit");
+                }
             }
             catch
             {
@@ -60,19 +96,34 @@ namespace Eagles_Website.Controllers
         }
 
         // GET: CategoryController/Delete/5
-        public ActionResult Delete(int id)
+        public ActionResult Delete(int ID)
         {
-            return View();
+            Category Category = UnitOFWork.CategoryRepo.Get(C => C.ID == ID);
+            if (Category == null)
+            {
+                return RedirectToAction(nameof(Index));
+            }
+            return View("Delete",Category);
         }
 
         // POST: CategoryController/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
+        public ActionResult Delete(Category Category)
         {
             try
             {
-                return RedirectToAction(nameof(Index));
+                if(Category != null)
+                {
+                    UnitOFWork.CategoryRepo.remove(Category);
+                    UnitOFWork.CategoryRepo.save();
+                    return RedirectToAction(nameof(Index));
+                }
+                else
+                {
+                    return View("Delete");
+                }
+                
             }
             catch
             {
