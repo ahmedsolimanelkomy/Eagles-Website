@@ -2,6 +2,7 @@ using Eagles_Website.Models;
 using Eagles_Website.Repository;
 using Eagles_Website.Repository.IRepository;
 using Eagles_Website.ViewModels;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 namespace Eagles_Website
@@ -19,7 +20,8 @@ namespace Eagles_Website
                 options.UseSqlServer(builder.Configuration.GetConnectionString("cs"));
             });
             builder.Services.AddIdentity<ApplicationUser, ApplicationRole>()
-                    .AddEntityFrameworkStores<Context>();
+                .AddUserManager<ApplicationManager>()
+                .AddEntityFrameworkStores<Context>();
             builder.Services.AddSession(
                options =>
                {

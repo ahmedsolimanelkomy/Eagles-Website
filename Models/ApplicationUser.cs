@@ -8,9 +8,7 @@ namespace Eagles_Website.Models
         [Required]
         public string? Address { get; set; }
         public int ZipCode { get; set; }
-
-        //Navigation Properties
         public Cart? Cart { get; set; }
-
+        public int CartId { get; set; }
     }
 }

@@ -1,6 +1,7 @@
 ﻿using Eagles_Website.Models;
 using Eagles_Website.Repository.IRepository;
 using Eagles_Website.ViewModels;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -14,6 +15,7 @@ namespace Eagles_Website.Controllers
         {
             this.UnitOFWork = UnitOFWork;
         }
+
         // GET: CategoryController
         public ActionResult Index()
         {
