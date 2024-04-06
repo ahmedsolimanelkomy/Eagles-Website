@@ -2,7 +2,6 @@
 using Eagles_Website.Repository;
 using Eagles_Website.Repository.IRepository;
 using Eagles_Website.ViewModels;
-using EaglesWebsite.Migrations;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
