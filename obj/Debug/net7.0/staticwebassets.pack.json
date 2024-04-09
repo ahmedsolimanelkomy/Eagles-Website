@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\Eagles Website.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Logo.png",
+      "PackagePath": "staticwebassets\\Images\\Logo.png"
+    },
+    {
       "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\1d09582d-77f7-486d-bb37-f851be591d82_m.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\1d09582d-77f7-486d-bb37-f851be591d82_m.jpg"
     },
@@ -297,12 +301,20 @@
       "PackagePath": "staticwebassets\\Images\\visa.jpg"
     },
     {
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\css\\SignIn\\signin.css",
+      "PackagePath": "staticwebassets\\css\\SignIn\\signin.css"
+    },
+    {
       "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\css\\ajax-loader.gif",
       "PackagePath": "staticwebassets\\css\\ajax-loader.gif"
     },
     {
       "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\css\\home\\Home.css",
+      "PackagePath": "staticwebassets\\css\\home\\Home.css"
     },
     {
       "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\css\\site.css",

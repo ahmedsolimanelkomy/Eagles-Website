@@ -20,7 +20,7 @@
     ================================================== -->
     <script src="/js/modernizr.js"></script>
   </head>
-  <body data-bs-spy="scroll" data-bs-target="#navbar" data-bs-root-margin="0px 0px -40%" data-bs-smooth-scroll="true" tabindex="0">
+  <body data-bs-spy="scroll" data-bs-target="#navbar" data-bs-root-margin="0px 0px -40%" data-bs-smooth-scroll="true" tabindex="0" style="padding:0;">
     <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
       <symbol id="search" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
         <title>Search</title>
@@ -223,16 +223,16 @@
                             <a class="nav-link me-4" href="#yearly-sale">Payment</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link me-4" href="#yearly-sale">Logout</a>
+                                    <a class="nav-link me-4" asp-controller="Account" asp-action="SignOut">SignOut</a>
                         </li>
                     }
                     else
                     {
                          <li class="nav-item">
-                            <a class="nav-link me-4" href="#yearly-sale">Login</a>
-                        </li>
+                            <a class="nav-link me-4" asp-controller="Account" asp-action="Login">Login</a>
+                        </li> 
                         <li class="nav-item">
-                            <a class="nav-link me-4" href="#yearly-sale">Register</a>
+                                    <a class="nav-link me-4" asp-controller="Account" asp-action="Register">Register</a>
                         </li>  
                     }
                 <li class="nav-item">

@@ -2,42 +2,39 @@
 
 @{
     ViewData["Title"] = "Login";
-    Layout = "~/Views/Shared/_TemplateLayout.cshtml";
+    Layout = "~/Views/Shared/_SignIn.cshtml";
 }
-
-<h1>Login</h1>
-
-<h4>LoggedInCustomer</h4>
 <hr />
-<div class="row">
-    <div class="col-md-4">
-        <form asp-controller="Customer" asp-action="SaveLogin" method="post">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <div class="form-group">
+    <main class="form-signin">
+    <h4>Login</h4>
+        <form asp-controller="Account" asp-action="SaveLogin" method="post">
+            <img class="mb-4" src="~/Images/Logo.png" alt="" width="72" height="57">
+            <h1 class="h3 mb-3 fw-normal">Please sign in</h1><br />
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div><br />
+            <div class="form-floating">
+                <input asp-for="UserName" class="form-control" id="floatingInput" />
                 <label asp-for="UserName" class="control-label"></label>
-                <input asp-for="UserName" class="form-control" />
                 <span asp-validation-for="UserName" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Email" class="control-label"></label>
-                <input asp-for="Email" class="form-control" />
-                <span asp-validation-for="Email" class="text-danger"></span>
-            </div>
-            <div class="form-group">
+            </div><br />
+            <div class="form-floating">
+                <input asp-for="Password" class="form-control" id="floatingPassword" />
                 <label asp-for="Password" class="control-label"></label>
-                <input asp-for="Password" class="form-control" />
                 <span asp-validation-for="Password" class="text-danger"></span>
             </div>
-            <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
+            <div class="checkbox mb-3">
+                <label>
+                    <input type="checkbox" value="remember-me"> Remember me
+                </label>
             </div>
+            <div class="form-group">
+                <input type="submit" value="Login" class="w-100 btn btn-lg btn-primary"/>
+            </div>
+            <p class="mt-5 mb-3 text-muted">&copy; Eagles ITI PWD Track 2023 - 2024</p>
         </form>
-    </div>
-</div>
-
-<div>
-    <a asp-action="Index">Back to List</a>
-</div>
+        <div>
+            <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+        </div>
+    </main>
 
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}

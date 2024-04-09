@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Eagles Website")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cd488ae1b38a2b12818ca22e96b83ac6040b543")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+879c59cea60e3f22dd862c8a337a603286e0eae0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Eagles Website")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Eagles Website")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

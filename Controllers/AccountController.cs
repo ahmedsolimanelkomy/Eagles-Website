@@ -80,7 +80,7 @@ namespace Eagles_Website.Controllers
                         return RedirectToAction("Index", "Home");
                     }
                 }
-                ModelState.AddModelError("", "Invalid Account Data try Again");
+                ModelState.AddModelError("", "Invalid Credentials Please try again");
             }
             return View("Login", LoggedInCustomer);
         }

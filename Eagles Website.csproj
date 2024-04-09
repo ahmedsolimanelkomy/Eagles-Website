@@ -8,6 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="wwwroot\css\signin.css" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="7.0.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.0" />
@@ -21,6 +25,10 @@
   <ItemGroup>
     <Folder Include="Migrations\" />
     <Folder Include="wwwroot\Images\Product\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\css\home\Home.css" />
   </ItemGroup>
 
 </Project>
