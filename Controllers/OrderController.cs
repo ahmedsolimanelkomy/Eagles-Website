@@ -1,5 +1,6 @@
 ﻿using Eagles_Website.Models;
 using Eagles_Website.Repository.IRepository;
+using Eagles_Website.ViewModels;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -34,42 +35,6 @@ namespace Eagles_Website.Controllers
             return View();
         }
 
-        // POST: OrderController/Create
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
-        {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
-        }
-
-        // GET: OrderController/Edit/5
-        public ActionResult Edit(int id)
-        {
-            return View();
-        }
-
-        // POST: OrderController/Edit/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
-        {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
-        }
-
         // GET: OrderController/Delete/5
         public ActionResult Delete(int id)
         {
@@ -89,6 +54,21 @@ namespace Eagles_Website.Controllers
             {
                 return View();
             }
+        }
+        [HttpGet]
+        public IActionResult CreateOrder(Cart Cart)
+        {
+            Cart CartDB = unitOFWork.CartRepo.Get(C => C.ID == Cart.ID,"CartItems");
+            OrderViewModel OrderViewModel = new OrderViewModel();
+            OrderViewModel.CartID = CartDB.ID;
+            OrderViewModel.TotalAmount = CartDB.CartItems.Count;
+            OrderViewModel.OrderDate = DateTime.Now;
+            return View("CreateOrder",OrderViewModel);
+        }
+
+        public IActionResult Pay()
+        {
+            return View();
         }
     }
 }

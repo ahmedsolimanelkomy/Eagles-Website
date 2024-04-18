@@ -1,591 +1,595 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Eagles Website.bundle.scp.css",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Eagles Website.bundle.scp.css",
       "PackagePath": "staticwebassets\\Eagles Website.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Logo.png",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Logo.png",
       "PackagePath": "staticwebassets\\Images\\Logo.png"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\1d09582d-77f7-486d-bb37-f851be591d82_m.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\1d09582d-77f7-486d-bb37-f851be591d82_m.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\1d09582d-77f7-486d-bb37-f851be591d82_m.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\2540b7b1-373f-4482-b3cb-f3d04340ba57_m.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\2540b7b1-373f-4482-b3cb-f3d04340ba57_m.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\2540b7b1-373f-4482-b3cb-f3d04340ba57_m.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\30e92f9d-f180-4c4a-99c0-ab52852b3e2f_a.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\30e92f9d-f180-4c4a-99c0-ab52852b3e2f_a.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\30e92f9d-f180-4c4a-99c0-ab52852b3e2f_a.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\3803fdf5-1f99-48a4-b8bd-a8d32ec8a81f_m.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\3803fdf5-1f99-48a4-b8bd-a8d32ec8a81f_m.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\3803fdf5-1f99-48a4-b8bd-a8d32ec8a81f_m.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\40efbbc3-cb60-4d5d-abbc-5f9aa77f4f16_m.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\40efbbc3-cb60-4d5d-abbc-5f9aa77f4f16_m.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\40efbbc3-cb60-4d5d-abbc-5f9aa77f4f16_m.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\43aba9a6-1f2d-4f06-914c-b344643dfc91_m.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\43aba9a6-1f2d-4f06-914c-b344643dfc91_m.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\43aba9a6-1f2d-4f06-914c-b344643dfc91_m.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\4ae4f58c-d466-494e-acf2-302addedaad3_m.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\4ae4f58c-d466-494e-acf2-302addedaad3_m.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\4ae4f58c-d466-494e-acf2-302addedaad3_m.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\58b20cf2-f4c5-4cc6-acaf-402730cd3759_m.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\58b20cf2-f4c5-4cc6-acaf-402730cd3759_m.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\58b20cf2-f4c5-4cc6-acaf-402730cd3759_m.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\5b9c7104-8f6c-403a-b623-db815dd32632_m.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\5b9c7104-8f6c-403a-b623-db815dd32632_m.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\5b9c7104-8f6c-403a-b623-db815dd32632_m.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\5e1f4d48-9b48-426f-987b-898b16e8e4e1_m.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\5e1f4d48-9b48-426f-987b-898b16e8e4e1_m.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\5e1f4d48-9b48-426f-987b-898b16e8e4e1_m.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\6431e539-61d5-4c2a-b83e-81356f247cb1_Apple.jfif",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\6431e539-61d5-4c2a-b83e-81356f247cb1_Apple.jfif",
       "PackagePath": "staticwebassets\\Images\\Product\\6431e539-61d5-4c2a-b83e-81356f247cb1_Apple.jfif"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\6faa2668-72f5-4420-9103-153a2bcdc4f2_Apple.jfif",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\6faa2668-72f5-4420-9103-153a2bcdc4f2_Apple.jfif",
       "PackagePath": "staticwebassets\\Images\\Product\\6faa2668-72f5-4420-9103-153a2bcdc4f2_Apple.jfif"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\81519f44-82fb-4de2-b464-5825366ab2be_a.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\81519f44-82fb-4de2-b464-5825366ab2be_a.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\81519f44-82fb-4de2-b464-5825366ab2be_a.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\87de74c0-fbc0-4a68-808f-38147159097b_m.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\87de74c0-fbc0-4a68-808f-38147159097b_m.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\87de74c0-fbc0-4a68-808f-38147159097b_m.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\970fe53a-b3f4-4cd0-a508-cf54f95dbbe6_JQuery.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\970fe53a-b3f4-4cd0-a508-cf54f95dbbe6_JQuery.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\970fe53a-b3f4-4cd0-a508-cf54f95dbbe6_JQuery.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\9b98ffec-23ab-4f14-a226-366d7e203e21_a.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\9b98ffec-23ab-4f14-a226-366d7e203e21_a.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\9b98ffec-23ab-4f14-a226-366d7e203e21_a.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\b498050a-6f29-453b-8039-3dce519791c7_a.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\b498050a-6f29-453b-8039-3dce519791c7_a.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\b498050a-6f29-453b-8039-3dce519791c7_a.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\cac9a3af-0861-4ca7-a448-9617c0e0b9b1_m.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\c570367f-7e8b-4cc5-b4f5-b4470136c554_3348901486385_1_ab7855f7-2b52-4e38-90c9-ca5020a8cd24_450x.webp",
+      "PackagePath": "staticwebassets\\Images\\Product\\c570367f-7e8b-4cc5-b4f5-b4470136c554_3348901486385_1_ab7855f7-2b52-4e38-90c9-ca5020a8cd24_450x.webp"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\cac9a3af-0861-4ca7-a448-9617c0e0b9b1_m.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\cac9a3af-0861-4ca7-a448-9617c0e0b9b1_m.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\ce5d8481-37c9-47b3-a532-aaa3dc898ed9_a.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\ce5d8481-37c9-47b3-a532-aaa3dc898ed9_a.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\ce5d8481-37c9-47b3-a532-aaa3dc898ed9_a.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\cf3a27b7-2ba5-497d-a59f-2d8eebd02e41_m.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\cf3a27b7-2ba5-497d-a59f-2d8eebd02e41_m.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\cf3a27b7-2ba5-497d-a59f-2d8eebd02e41_m.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\d1bf347d-df1f-472a-a7d4-8a978289b917_m.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\d1bf347d-df1f-472a-a7d4-8a978289b917_m.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\d1bf347d-df1f-472a-a7d4-8a978289b917_m.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\db39fea9-32dd-475e-9ac6-bc4293b264ca_9W5g5.png",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\db39fea9-32dd-475e-9ac6-bc4293b264ca_9W5g5.png",
       "PackagePath": "staticwebassets\\Images\\Product\\db39fea9-32dd-475e-9ac6-bc4293b264ca_9W5g5.png"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\dc17ee52-e519-44be-af4a-334f952a1072_Hat.png",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\dc17ee52-e519-44be-af4a-334f952a1072_Hat.png",
       "PackagePath": "staticwebassets\\Images\\Product\\dc17ee52-e519-44be-af4a-334f952a1072_Hat.png"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\e122829d-cca4-4999-8949-ef1a5d79d6d8_m.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\e122829d-cca4-4999-8949-ef1a5d79d6d8_m.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\e122829d-cca4-4999-8949-ef1a5d79d6d8_m.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\banner-image.png",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\banner-image.png",
       "PackagePath": "staticwebassets\\Images\\banner-image.png"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\cart-item1.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\cart-item1.jpg",
       "PackagePath": "staticwebassets\\Images\\cart-item1.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\cart-item2.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\cart-item2.jpg",
       "PackagePath": "staticwebassets\\Images\\cart-item2.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\commentor-item1.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\commentor-item1.jpg",
       "PackagePath": "staticwebassets\\Images\\commentor-item1.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\commentor-item2.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\commentor-item2.jpg",
       "PackagePath": "staticwebassets\\Images\\commentor-item2.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\commentor-item3.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\commentor-item3.jpg",
       "PackagePath": "staticwebassets\\Images\\commentor-item3.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\dhl.png",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\dhl.png",
       "PackagePath": "staticwebassets\\Images\\dhl.png"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\insta-item1.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\insta-item1.jpg",
       "PackagePath": "staticwebassets\\Images\\insta-item1.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\insta-item2.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\insta-item2.jpg",
       "PackagePath": "staticwebassets\\Images\\insta-item2.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\insta-item3.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\insta-item3.jpg",
       "PackagePath": "staticwebassets\\Images\\insta-item3.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\insta-item4.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\insta-item4.jpg",
       "PackagePath": "staticwebassets\\Images\\insta-item4.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\insta-item5.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\insta-item5.jpg",
       "PackagePath": "staticwebassets\\Images\\insta-item5.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\main-logo.png",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\main-logo.png",
       "PackagePath": "staticwebassets\\Images\\main-logo.png"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\mastercard.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\mastercard.jpg",
       "PackagePath": "staticwebassets\\Images\\mastercard.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\paypal.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\paypal.jpg",
       "PackagePath": "staticwebassets\\Images\\paypal.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\post-image.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\post-image.jpg",
       "PackagePath": "staticwebassets\\Images\\post-image.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\post-image1.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\post-image1.jpg",
       "PackagePath": "staticwebassets\\Images\\post-image1.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\post-item1.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\post-item1.jpg",
       "PackagePath": "staticwebassets\\Images\\post-item1.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\post-item2.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\post-item2.jpg",
       "PackagePath": "staticwebassets\\Images\\post-item2.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\post-item3.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\post-item3.jpg",
       "PackagePath": "staticwebassets\\Images\\post-item3.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\post-item4.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\post-item4.jpg",
       "PackagePath": "staticwebassets\\Images\\post-item4.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\post-item5.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\post-item5.jpg",
       "PackagePath": "staticwebassets\\Images\\post-item5.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\post-item6.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\post-item6.jpg",
       "PackagePath": "staticwebassets\\Images\\post-item6.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\post-item7.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\post-item7.jpg",
       "PackagePath": "staticwebassets\\Images\\post-item7.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\post-item8.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\post-item8.jpg",
       "PackagePath": "staticwebassets\\Images\\post-item8.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\post-item9.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\post-item9.jpg",
       "PackagePath": "staticwebassets\\Images\\post-item9.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\post-small-image1.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\post-small-image1.jpg",
       "PackagePath": "staticwebassets\\Images\\post-small-image1.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\post-small-image2.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\post-small-image2.jpg",
       "PackagePath": "staticwebassets\\Images\\post-small-image2.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\post-small-image3.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\post-small-image3.jpg",
       "PackagePath": "staticwebassets\\Images\\post-small-image3.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\product-item1.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\product-item1.jpg",
       "PackagePath": "staticwebassets\\Images\\product-item1.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\product-item10.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\product-item10.jpg",
       "PackagePath": "staticwebassets\\Images\\product-item10.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\product-item2.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\product-item2.jpg",
       "PackagePath": "staticwebassets\\Images\\product-item2.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\product-item3.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\product-item3.jpg",
       "PackagePath": "staticwebassets\\Images\\product-item3.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\product-item4.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\product-item4.jpg",
       "PackagePath": "staticwebassets\\Images\\product-item4.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\product-item5.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\product-item5.jpg",
       "PackagePath": "staticwebassets\\Images\\product-item5.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\product-item6.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\product-item6.jpg",
       "PackagePath": "staticwebassets\\Images\\product-item6.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\product-item7.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\product-item7.jpg",
       "PackagePath": "staticwebassets\\Images\\product-item7.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\product-item8.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\product-item8.jpg",
       "PackagePath": "staticwebassets\\Images\\product-item8.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\product-item9.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\product-item9.jpg",
       "PackagePath": "staticwebassets\\Images\\product-item9.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\review-item1.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\review-item1.jpg",
       "PackagePath": "staticwebassets\\Images\\review-item1.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\review-item2.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\review-item2.jpg",
       "PackagePath": "staticwebassets\\Images\\review-item2.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\search-icon.png",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\search-icon.png",
       "PackagePath": "staticwebassets\\Images\\search-icon.png"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\shippingcard.png",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\shippingcard.png",
       "PackagePath": "staticwebassets\\Images\\shippingcard.png"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\singel-product-item.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\singel-product-item.jpg",
       "PackagePath": "staticwebassets\\Images\\singel-product-item.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\single-image1.png",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\single-image1.png",
       "PackagePath": "staticwebassets\\Images\\single-image1.png"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\single-image2.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\single-image2.jpg",
       "PackagePath": "staticwebassets\\Images\\single-image2.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\single-image3.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\single-image3.jpg",
       "PackagePath": "staticwebassets\\Images\\single-image3.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\single-post.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\single-post.jpg",
       "PackagePath": "staticwebassets\\Images\\single-post.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\visa.jpg",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\visa.jpg",
       "PackagePath": "staticwebassets\\Images\\visa.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\css\\SignIn\\signin.css",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\css\\SignIn\\signin.css",
       "PackagePath": "staticwebassets\\css\\SignIn\\signin.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\css\\ajax-loader.gif",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\css\\ajax-loader.gif",
       "PackagePath": "staticwebassets\\css\\ajax-loader.gif"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\css\\home\\Home.css",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\css\\home\\Home.css",
       "PackagePath": "staticwebassets\\css\\home\\Home.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\css\\style.css",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\css\\vendor.css",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\css\\vendor.css",
       "PackagePath": "staticwebassets\\css\\vendor.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\js\\ajax-loader.gif",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\js\\ajax-loader.gif",
       "PackagePath": "staticwebassets\\js\\ajax-loader.gif"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\js\\jquery-1.11.0.min.js",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\js\\jquery-1.11.0.min.js",
       "PackagePath": "staticwebassets\\js\\jquery-1.11.0.min.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\js\\modernizr.js",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\js\\modernizr.js",
       "PackagePath": "staticwebassets\\js\\modernizr.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\js\\plugins.js",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\js\\plugins.js",
       "PackagePath": "staticwebassets\\js\\plugins.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\js\\script.js",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\js\\script.js",
       "PackagePath": "staticwebassets\\js\\script.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

@@ -2,8 +2,10 @@ using Eagles_Website.Models;
 using Eagles_Website.Repository;
 using Eagles_Website.Repository.IRepository;
 using Eagles_Website.ViewModels;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using System.Security.Claims;
 
 namespace Eagles_Website.Controllers
 {
@@ -12,16 +14,55 @@ namespace Eagles_Website.Controllers
         private readonly ILogger<HomeController> _logger;
         private readonly IUnitOFWork _unitOfWork;
 
-        public HomeController(ILogger<HomeController> logger , IUnitOFWork unitOfWork)
+        public HomeController(ILogger<HomeController> logger, IUnitOFWork unitOfWork)
         {
             _logger = logger;
-            _unitOfWork = unitOfWork;   
+            _unitOfWork = unitOfWork;
         }
 
         public IActionResult Index()
         {
             List<Product> products = _unitOfWork.ProductRepo.GetAll().ToList();
-            return View("Index" , products);
+            return View("Index", products);
+        }
+
+        [Authorize]
+        [HttpGet]
+        public IActionResult Details(int id)
+        {
+            CartItem c = new CartItem()
+            {
+                Product = _unitOfWork.ProductRepo.Get(c => c.ID == id, "Category"),
+                ProductID = id
+            };
+            return View(c);
+        }
+        [HttpPost]
+        [Authorize]
+        public IActionResult Details(CartItem cartitem)
+        {
+
+            int userid = int.Parse(User.Claims.FirstOrDefault(s => s.Type == ClaimTypes.NameIdentifier)?.Value);
+            Cart cart = _unitOfWork.CartRepo.Get(c => c.ApplicationUser.Id == userid);
+
+            CartItem c = _unitOfWork.CartItemRepo.Get(c => c.ProductID == cartitem.ProductID && c.CartID == cart.ID);
+            if (c != null)
+            {
+                c.Quantity += cartitem.Quantity;
+                c.SubTotal = c.UnitPrice * c.Quantity;
+                _unitOfWork.CartItemRepo.update(c);
+            }
+            else
+            {
+                cartitem.Id = 0;
+                cartitem.CartID = cart.ID;
+                cartitem.UnitPrice = _unitOfWork.ProductRepo.Get(p => p.ID == cartitem.ProductID).Price;
+                cartitem.SubTotal += cartitem.UnitPrice * cartitem.Quantity;
+                _unitOfWork.CartItemRepo.add(cartitem);
+            }
+
+            _unitOfWork.CartItemRepo.save();
+            return RedirectToAction("Index");
         }
 
         public IActionResult Privacy()

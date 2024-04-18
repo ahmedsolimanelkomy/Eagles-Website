@@ -17,7 +17,7 @@ namespace Eagles_Website.Controllers
         public IActionResult Index()
         {
             int userid = int.Parse(User.Claims.FirstOrDefault(s => s.Type == ClaimTypes.NameIdentifier)?.Value);
-            Cart ?cart = _unitOfWork.CartRepo.GetCartwithincludes(c => c.ApplicationUser.Id == userid);
+            Cart? cart = _unitOfWork.CartRepo.GetCartwithincludes(c => c.ApplicationUser.Id == userid);
 
             Cart? cart2 = _unitOfWork.CartRepo.handletotal(cart);
             return View(cart);
@@ -33,14 +33,14 @@ namespace Eagles_Website.Controllers
             _unitOfWork.CartRepo.save();
             return RedirectToAction(nameof(Index));
         }
-        public IActionResult minus(int cartitemid) 
+        public IActionResult minus(int cartitemid)
         {
 
             int userid = int.Parse(User.Claims.FirstOrDefault(s => s.Type == ClaimTypes.NameIdentifier)?.Value);
             Cart cart = _unitOfWork.CartRepo.Get(c => c.ApplicationUser.Id == userid);
 
-            CartItem c = _unitOfWork.CartItemRepo.Get(c => c.Id == cartitemid&& c.CartID == cart.ID);
-            if(c.Quantity<=1)
+            CartItem c = _unitOfWork.CartItemRepo.Get(c => c.Id == cartitemid && c.CartID == cart.ID);
+            if (c.Quantity <= 1)
             {
                 _unitOfWork.CartItemRepo.remove(c);
             }
@@ -48,11 +48,11 @@ namespace Eagles_Website.Controllers
             {
                 c.Quantity -= 1;
                 c.SubTotal = c.UnitPrice * c.Quantity;
-                
+
 
             }
             _unitOfWork.CartRepo.save();
-            return RedirectToAction(nameof(Index)); 
+            return RedirectToAction(nameof(Index));
         }
         public IActionResult delete(int cartitemid)
         {

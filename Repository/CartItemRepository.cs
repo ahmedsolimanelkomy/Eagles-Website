@@ -10,6 +10,7 @@ namespace Eagles_Website.Repository
         {
             _dbcontext = dBcontext;
         }
+
     
     }
 }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XhDcSGEPM6UKAsaq94C1yUYEiOwbDI/KOZ7nCWVgS/c=",
+  "Hash": "x/dj8Ivh4jQ9nPxbJDkTZNmU69/hepKfMyNHoQ0IKSI=",
   "Source": "Eagles Website",
   "BasePath": "_content/Eagles Website",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Eagles Website\\wwwroot",
       "Source": "Eagles Website",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Eagles Website.styles.css",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Eagles Website.styles.css",
       "SourceId": "Eagles Website",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Eagles Website.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Eagles Website.styles.css"
+      "OriginalItemSpec": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Eagles Website.styles.css"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Eagles Website.bundle.scp.css",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Eagles Website.bundle.scp.css",
       "SourceId": "Eagles Website",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Eagles Website.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Eagles Website.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Eagles Website.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\css\\ajax-loader.gif",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\css\\ajax-loader.gif",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "css/ajax-loader.gif",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\ajax-loader.gif"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\css\\home\\Home.css",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\css\\home\\Home.css",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "css/home/Home.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\home\\Home.css"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\css\\SignIn\\signin.css",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\css\\SignIn\\signin.css",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "css/SignIn/signin.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\SignIn\\signin.css"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\css\\site.css",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\css\\style.css",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\css\\vendor.css",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\css\\vendor.css",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "css/vendor.css",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\css\\vendor.css"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\favicon.ico",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\banner-image.png",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\banner-image.png",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/banner-image.png",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\banner-image.png"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\cart-item1.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\cart-item1.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/cart-item1.jpg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\cart-item1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\cart-item2.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\cart-item2.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/cart-item2.jpg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\cart-item2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\commentor-item1.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\commentor-item1.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/commentor-item1.jpg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\commentor-item1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\commentor-item2.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\commentor-item2.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/commentor-item2.jpg",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\commentor-item2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\commentor-item3.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\commentor-item3.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/commentor-item3.jpg",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\commentor-item3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\dhl.png",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\dhl.png",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/dhl.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\dhl.png"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\insta-item1.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\insta-item1.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/insta-item1.jpg",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\insta-item1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\insta-item2.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\insta-item2.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/insta-item2.jpg",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\insta-item2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\insta-item3.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\insta-item3.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/insta-item3.jpg",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\insta-item3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\insta-item4.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\insta-item4.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/insta-item4.jpg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\insta-item4.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\insta-item5.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\insta-item5.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/insta-item5.jpg",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\insta-item5.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Logo.png",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Logo.png",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/Logo.png",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Logo.png"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\main-logo.png",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\main-logo.png",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/main-logo.png",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\main-logo.png"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\mastercard.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\mastercard.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/mastercard.jpg",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\mastercard.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\paypal.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\paypal.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/paypal.jpg",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\paypal.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\post-image.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\post-image.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/post-image.jpg",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\post-image.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\post-image1.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\post-image1.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/post-image1.jpg",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\post-image1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\post-item1.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\post-item1.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/post-item1.jpg",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\post-item1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\post-item2.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\post-item2.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/post-item2.jpg",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\post-item2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\post-item3.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\post-item3.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/post-item3.jpg",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\post-item3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\post-item4.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\post-item4.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/post-item4.jpg",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\post-item4.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\post-item5.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\post-item5.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/post-item5.jpg",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\post-item5.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\post-item6.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\post-item6.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/post-item6.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\post-item6.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\post-item7.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\post-item7.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/post-item7.jpg",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\post-item7.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\post-item8.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\post-item8.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/post-item8.jpg",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\post-item8.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\post-item9.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\post-item9.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/post-item9.jpg",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\post-item9.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\post-small-image1.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\post-small-image1.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/post-small-image1.jpg",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\post-small-image1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\post-small-image2.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\post-small-image2.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/post-small-image2.jpg",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\post-small-image2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\post-small-image3.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\post-small-image3.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/post-small-image3.jpg",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\post-small-image3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\1d09582d-77f7-486d-bb37-f851be591d82_m.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\1d09582d-77f7-486d-bb37-f851be591d82_m.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/Product/1d09582d-77f7-486d-bb37-f851be591d82_m.jpg",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\1d09582d-77f7-486d-bb37-f851be591d82_m.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\2540b7b1-373f-4482-b3cb-f3d04340ba57_m.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\2540b7b1-373f-4482-b3cb-f3d04340ba57_m.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/Product/2540b7b1-373f-4482-b3cb-f3d04340ba57_m.jpg",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\2540b7b1-373f-4482-b3cb-f3d04340ba57_m.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\30e92f9d-f180-4c4a-99c0-ab52852b3e2f_a.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\30e92f9d-f180-4c4a-99c0-ab52852b3e2f_a.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/Product/30e92f9d-f180-4c4a-99c0-ab52852b3e2f_a.jpg",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\30e92f9d-f180-4c4a-99c0-ab52852b3e2f_a.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\3803fdf5-1f99-48a4-b8bd-a8d32ec8a81f_m.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\3803fdf5-1f99-48a4-b8bd-a8d32ec8a81f_m.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/Product/3803fdf5-1f99-48a4-b8bd-a8d32ec8a81f_m.jpg",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\3803fdf5-1f99-48a4-b8bd-a8d32ec8a81f_m.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\40efbbc3-cb60-4d5d-abbc-5f9aa77f4f16_m.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\40efbbc3-cb60-4d5d-abbc-5f9aa77f4f16_m.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/Product/40efbbc3-cb60-4d5d-abbc-5f9aa77f4f16_m.jpg",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\40efbbc3-cb60-4d5d-abbc-5f9aa77f4f16_m.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\43aba9a6-1f2d-4f06-914c-b344643dfc91_m.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\43aba9a6-1f2d-4f06-914c-b344643dfc91_m.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/Product/43aba9a6-1f2d-4f06-914c-b344643dfc91_m.jpg",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\43aba9a6-1f2d-4f06-914c-b344643dfc91_m.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\4ae4f58c-d466-494e-acf2-302addedaad3_m.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\4ae4f58c-d466-494e-acf2-302addedaad3_m.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/Product/4ae4f58c-d466-494e-acf2-302addedaad3_m.jpg",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\4ae4f58c-d466-494e-acf2-302addedaad3_m.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\58b20cf2-f4c5-4cc6-acaf-402730cd3759_m.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\58b20cf2-f4c5-4cc6-acaf-402730cd3759_m.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/Product/58b20cf2-f4c5-4cc6-acaf-402730cd3759_m.jpg",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\58b20cf2-f4c5-4cc6-acaf-402730cd3759_m.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\5b9c7104-8f6c-403a-b623-db815dd32632_m.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\5b9c7104-8f6c-403a-b623-db815dd32632_m.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/Product/5b9c7104-8f6c-403a-b623-db815dd32632_m.jpg",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\5b9c7104-8f6c-403a-b623-db815dd32632_m.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\5e1f4d48-9b48-426f-987b-898b16e8e4e1_m.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\5e1f4d48-9b48-426f-987b-898b16e8e4e1_m.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/Product/5e1f4d48-9b48-426f-987b-898b16e8e4e1_m.jpg",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\5e1f4d48-9b48-426f-987b-898b16e8e4e1_m.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\6431e539-61d5-4c2a-b83e-81356f247cb1_Apple.jfif",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\6431e539-61d5-4c2a-b83e-81356f247cb1_Apple.jfif",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/Product/6431e539-61d5-4c2a-b83e-81356f247cb1_Apple.jfif",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\6431e539-61d5-4c2a-b83e-81356f247cb1_Apple.jfif"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\6faa2668-72f5-4420-9103-153a2bcdc4f2_Apple.jfif",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\6faa2668-72f5-4420-9103-153a2bcdc4f2_Apple.jfif",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/Product/6faa2668-72f5-4420-9103-153a2bcdc4f2_Apple.jfif",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\6faa2668-72f5-4420-9103-153a2bcdc4f2_Apple.jfif"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\81519f44-82fb-4de2-b464-5825366ab2be_a.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\81519f44-82fb-4de2-b464-5825366ab2be_a.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/Product/81519f44-82fb-4de2-b464-5825366ab2be_a.jpg",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\81519f44-82fb-4de2-b464-5825366ab2be_a.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\87de74c0-fbc0-4a68-808f-38147159097b_m.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\87de74c0-fbc0-4a68-808f-38147159097b_m.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/Product/87de74c0-fbc0-4a68-808f-38147159097b_m.jpg",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\87de74c0-fbc0-4a68-808f-38147159097b_m.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\970fe53a-b3f4-4cd0-a508-cf54f95dbbe6_JQuery.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\970fe53a-b3f4-4cd0-a508-cf54f95dbbe6_JQuery.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/Product/970fe53a-b3f4-4cd0-a508-cf54f95dbbe6_JQuery.jpg",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\970fe53a-b3f4-4cd0-a508-cf54f95dbbe6_JQuery.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\9b98ffec-23ab-4f14-a226-366d7e203e21_a.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\9b98ffec-23ab-4f14-a226-366d7e203e21_a.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/Product/9b98ffec-23ab-4f14-a226-366d7e203e21_a.jpg",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\9b98ffec-23ab-4f14-a226-366d7e203e21_a.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\b498050a-6f29-453b-8039-3dce519791c7_a.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\b498050a-6f29-453b-8039-3dce519791c7_a.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/Product/b498050a-6f29-453b-8039-3dce519791c7_a.jpg",
       "AssetKind": "All",
@@ -1100,10 +1100,29 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\b498050a-6f29-453b-8039-3dce519791c7_a.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\cac9a3af-0861-4ca7-a448-9617c0e0b9b1_m.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\c570367f-7e8b-4cc5-b4f5-b4470136c554_3348901486385_1_ab7855f7-2b52-4e38-90c9-ca5020a8cd24_450x.webp",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
+      "BasePath": "_content/Eagles Website",
+      "RelativePath": "Images/Product/c570367f-7e8b-4cc5-b4f5-b4470136c554_3348901486385_1_ab7855f7-2b52-4e38-90c9-ca5020a8cd24_450x.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Product\\c570367f-7e8b-4cc5-b4f5-b4470136c554_3348901486385_1_ab7855f7-2b52-4e38-90c9-ca5020a8cd24_450x.webp"
+    },
+    {
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\cac9a3af-0861-4ca7-a448-9617c0e0b9b1_m.jpg",
+      "SourceId": "Eagles Website",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/Product/cac9a3af-0861-4ca7-a448-9617c0e0b9b1_m.jpg",
       "AssetKind": "All",
@@ -1119,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\cac9a3af-0861-4ca7-a448-9617c0e0b9b1_m.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\ce5d8481-37c9-47b3-a532-aaa3dc898ed9_a.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\ce5d8481-37c9-47b3-a532-aaa3dc898ed9_a.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/Product/ce5d8481-37c9-47b3-a532-aaa3dc898ed9_a.jpg",
       "AssetKind": "All",
@@ -1138,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\ce5d8481-37c9-47b3-a532-aaa3dc898ed9_a.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\cf3a27b7-2ba5-497d-a59f-2d8eebd02e41_m.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\cf3a27b7-2ba5-497d-a59f-2d8eebd02e41_m.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/Product/cf3a27b7-2ba5-497d-a59f-2d8eebd02e41_m.jpg",
       "AssetKind": "All",
@@ -1157,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\cf3a27b7-2ba5-497d-a59f-2d8eebd02e41_m.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\d1bf347d-df1f-472a-a7d4-8a978289b917_m.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\d1bf347d-df1f-472a-a7d4-8a978289b917_m.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/Product/d1bf347d-df1f-472a-a7d4-8a978289b917_m.jpg",
       "AssetKind": "All",
@@ -1176,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\d1bf347d-df1f-472a-a7d4-8a978289b917_m.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\db39fea9-32dd-475e-9ac6-bc4293b264ca_9W5g5.png",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\db39fea9-32dd-475e-9ac6-bc4293b264ca_9W5g5.png",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/Product/db39fea9-32dd-475e-9ac6-bc4293b264ca_9W5g5.png",
       "AssetKind": "All",
@@ -1195,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\db39fea9-32dd-475e-9ac6-bc4293b264ca_9W5g5.png"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\dc17ee52-e519-44be-af4a-334f952a1072_Hat.png",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\dc17ee52-e519-44be-af4a-334f952a1072_Hat.png",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/Product/dc17ee52-e519-44be-af4a-334f952a1072_Hat.png",
       "AssetKind": "All",
@@ -1214,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\dc17ee52-e519-44be-af4a-334f952a1072_Hat.png"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\Product\\e122829d-cca4-4999-8949-ef1a5d79d6d8_m.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\Product\\e122829d-cca4-4999-8949-ef1a5d79d6d8_m.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/Product/e122829d-cca4-4999-8949-ef1a5d79d6d8_m.jpg",
       "AssetKind": "All",
@@ -1233,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\e122829d-cca4-4999-8949-ef1a5d79d6d8_m.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\product-item1.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\product-item1.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/product-item1.jpg",
       "AssetKind": "All",
@@ -1252,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\product-item1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\product-item10.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\product-item10.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/product-item10.jpg",
       "AssetKind": "All",
@@ -1271,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\product-item10.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\product-item2.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\product-item2.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/product-item2.jpg",
       "AssetKind": "All",
@@ -1290,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\product-item2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\product-item3.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\product-item3.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/product-item3.jpg",
       "AssetKind": "All",
@@ -1309,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\product-item3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\product-item4.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\product-item4.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/product-item4.jpg",
       "AssetKind": "All",
@@ -1328,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\product-item4.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\product-item5.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\product-item5.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/product-item5.jpg",
       "AssetKind": "All",
@@ -1347,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\product-item5.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\product-item6.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\product-item6.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/product-item6.jpg",
       "AssetKind": "All",
@@ -1366,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\product-item6.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\product-item7.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\product-item7.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/product-item7.jpg",
       "AssetKind": "All",
@@ -1385,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\product-item7.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\product-item8.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\product-item8.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/product-item8.jpg",
       "AssetKind": "All",
@@ -1404,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\product-item8.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\product-item9.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\product-item9.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/product-item9.jpg",
       "AssetKind": "All",
@@ -1423,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\product-item9.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\review-item1.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\review-item1.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/review-item1.jpg",
       "AssetKind": "All",
@@ -1442,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\review-item1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\review-item2.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\review-item2.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/review-item2.jpg",
       "AssetKind": "All",
@@ -1461,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\review-item2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\search-icon.png",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\search-icon.png",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/search-icon.png",
       "AssetKind": "All",
@@ -1480,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\search-icon.png"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\shippingcard.png",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\shippingcard.png",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/shippingcard.png",
       "AssetKind": "All",
@@ -1499,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\shippingcard.png"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\singel-product-item.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\singel-product-item.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/singel-product-item.jpg",
       "AssetKind": "All",
@@ -1518,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\singel-product-item.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\single-image1.png",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\single-image1.png",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/single-image1.png",
       "AssetKind": "All",
@@ -1537,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\single-image1.png"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\single-image2.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\single-image2.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/single-image2.jpg",
       "AssetKind": "All",
@@ -1556,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\single-image2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\single-image3.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\single-image3.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/single-image3.jpg",
       "AssetKind": "All",
@@ -1575,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\single-image3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\single-post.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\single-post.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/single-post.jpg",
       "AssetKind": "All",
@@ -1594,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\single-post.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\Images\\visa.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\Images\\visa.jpg",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "Images/visa.jpg",
       "AssetKind": "All",
@@ -1613,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\visa.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\js\\ajax-loader.gif",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\js\\ajax-loader.gif",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "js/ajax-loader.gif",
       "AssetKind": "All",
@@ -1632,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\js\\ajax-loader.gif"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\js\\bootstrap.bundle.min.js",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1651,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\js\\jquery-1.11.0.min.js",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\js\\jquery-1.11.0.min.js",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "js/jquery-1.11.0.min.js",
       "AssetKind": "All",
@@ -1670,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-1.11.0.min.js"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\js\\modernizr.js",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\js\\modernizr.js",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "js/modernizr.js",
       "AssetKind": "All",
@@ -1689,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\js\\modernizr.js"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\js\\plugins.js",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\js\\plugins.js",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "js/plugins.js",
       "AssetKind": "All",
@@ -1708,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\js\\plugins.js"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\js\\script.js",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\js\\script.js",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "js/script.js",
       "AssetKind": "All",
@@ -1727,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\js\\script.js"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\js\\site.js",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1746,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1765,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1784,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1803,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1822,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1841,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1860,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1879,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1898,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1917,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1936,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1955,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1974,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1993,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2012,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2031,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2050,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2069,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2088,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2107,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2126,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2145,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2164,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2183,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2202,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2221,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2240,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2259,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2278,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2297,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2316,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2335,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2354,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2373,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2392,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2411,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2430,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2449,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2468,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2487,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2506,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2525,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2544,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2563,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2582,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2601,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2620,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2639,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2658,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2677,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2696,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2715,10 +2734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2734,10 +2753,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2753,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2772,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2791,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2810,10 +2829,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles Website\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\New folder\\Eagles-Website\\wwwroot\\",
       "BasePath": "_content/Eagles Website",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

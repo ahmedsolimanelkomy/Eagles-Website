@@ -12,5 +12,7 @@ namespace Eagles_Website.Repository.IRepository
         void save();
         void remove(T entity);
         void removeRange(IEnumerable<T> entities);
+        IEnumerable<T> GetList(Expression<Func<T, bool>> filter, string? includeprop = null);
+
     }
 }
