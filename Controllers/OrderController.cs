@@ -1,8 +1,10 @@
 ﻿using Eagles_Website.Models;
 using Eagles_Website.Repository.IRepository;
 using Eagles_Website.ViewModels;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System.Linq.Expressions;
 
 namespace Eagles_Website.Controllers
 {
@@ -15,6 +17,7 @@ namespace Eagles_Website.Controllers
             this.unitOFWork = unitOFWork;
         }
         // GET: OrderController
+        [Authorize(Roles ="Admin")]
         public ActionResult Index()
         {
             List<Order> Orders = unitOFWork.OrderRepo.GetAll("ApplicationUser,OrderDetails").ToList();
@@ -24,7 +27,8 @@ namespace Eagles_Website.Controllers
         // GET: OrderController/Details/5
         public ActionResult Details(int id)
         {
-            Order Order = unitOFWork.OrderRepo.Get(O => O.ID == id, "ApplicationUser,OrderDetails");
+            string UserName = User.Identity.Name;
+            Order Order = unitOFWork.OrderRepo.Get(O => O.ApplicationUser.UserName == UserName, "ApplicationUser,OrderDetails");
             List<OrderDetails> OrderDetails = Order.OrderDetails.ToList();
             return View("Details", OrderDetails);
         }
@@ -63,6 +67,8 @@ namespace Eagles_Website.Controllers
             OrderViewModel.CartID = CartDB.ID;
             OrderViewModel.TotalAmount = CartDB.CartItems.Count;
             OrderViewModel.OrderDate = DateTime.Now;
+            Order order = new Order();
+            unitOFWork.OrderRepo.save();
             return View("CreateOrder",OrderViewModel);
         }
 

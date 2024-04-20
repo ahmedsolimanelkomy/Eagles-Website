@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LIubAQlzx8FcZxV2RKI31qSU1546STxEhI5nQU30fOQ=",
+  "Hash": "F6mnwXc29C4WEFJ/G91UAWuVVCIqMkStR4NaCvoV+W0=",
   "Source": "Eagles Website",
   "BasePath": "_content/Eagles Website",
   "Mode": "Default",
@@ -110,6 +110,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\home\\Home.css"
+    },
+    {
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\css\\Product\\ProductView.css",
+      "SourceId": "Eagles Website",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\",
+      "BasePath": "_content/Eagles Website",
+      "RelativePath": "css/Product/ProductView.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Product\\ProductView.css"
     },
     {
       "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\css\\SignIn\\signin.css",

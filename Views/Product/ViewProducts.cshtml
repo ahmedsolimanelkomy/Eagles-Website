@@ -1,24 +1,31 @@
-﻿@model IEnumerable<Eagles_Website.Models.Product>
+﻿@model Eagles_Website.ViewModels.CategoryProductViewModel
 
 @{
     ViewData["Title"] = "ViewProducts";
     Layout = "~/Views/Shared/_TemplateLayout.cshtml";
 }
+<link rel="stylesheet" href="./css/Product/ProductView.css" />
+<div>
+    @foreach (var category in Model.Categories)
+    {
+        <button type="button" class="btn btn-primary" data-category-id="@category.ID">@category.Name</button>
+    }
+</div>
 <section id="mobile-products" class="product-store position-relative padding-large no-padding-top">
     <div class="container">
         <div class="row">
-            <div class="display-header d-flex justify-content-between pb-3">
+            <div class="display-header d-flex justify-content-between pb-3 align-items-center">
                 <h2 class="display-7 text-dark text-uppercase">Products</h2>
             </div>
 
-            <div class="swiper product-swiper">
+            <div class="swiper product-swiper" id="products-container">
 
                 <div class="swiper-wrapper">
-                    @foreach (var product in Model)
+                    @foreach (var product in Model.Products)
                     {
                         <div class="swiper-slide">
 
-                            <div class="product-card position-relative">
+                            <div class="product-card position-relative product" data-product-category-id="@product.CategoryId">
                                 <div class="image-holder">
                                     <img src="~/Images/Product/@product.ImageUrl" alt="@product.Name" class="img-fluid">
                                 </div>
@@ -46,3 +53,16 @@
     <div class="swiper-pagination position-absolute text-center"></div>
 </section>
 
+<a href="~/lib/jquery/dist/jquery.min.map"></a>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/jquery/dist/jquery.js"></script>
+
+<script>
+    $(document).ready(function () {
+        $('.btn-primary').click(function () {
+            var categoryId = $(this).data('category-id');
+            $('.product').hide();
+            $('.product[data-product-category-id="' + categoryId + '"]').show();
+        });
+    });
+</script>

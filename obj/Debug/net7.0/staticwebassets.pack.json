@@ -305,6 +305,10 @@
       "PackagePath": "staticwebassets\\Images\\visa.jpg"
     },
     {
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\css\\Product\\ProductView.css",
+      "PackagePath": "staticwebassets\\css\\Product\\ProductView.css"
+    },
+    {
       "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\css\\SignIn\\signin.css",
       "PackagePath": "staticwebassets\\css\\SignIn\\signin.css"
     },

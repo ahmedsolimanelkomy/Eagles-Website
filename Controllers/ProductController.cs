@@ -177,8 +177,10 @@ namespace Eagles_Website.Controllers
 
         public ActionResult ViewProducts()
         {
-            var p = UnitOFWork.ProductRepo.GetAll();
-            return View(p);
+            CategoryProductViewModel categoryProductViewModel = new CategoryProductViewModel();
+            categoryProductViewModel.Categories = UnitOFWork.CategoryRepo.GetAll().ToList();
+            categoryProductViewModel.Products = UnitOFWork.ProductRepo.GetAll().ToList();
+            return View(categoryProductViewModel);
         }
     }
 }
