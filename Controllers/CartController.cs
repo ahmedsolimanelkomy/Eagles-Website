@@ -1,10 +1,12 @@
 ﻿using Eagles_Website.Models;
 using Eagles_Website.Repository.IRepository;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Security.Claims;
 
 namespace Eagles_Website.Controllers
 {
+    [Authorize]
     public class CartController : Controller
     {
         private readonly IUnitOFWork _unitOfWork;

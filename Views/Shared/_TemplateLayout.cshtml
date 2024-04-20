@@ -133,7 +133,7 @@
     <header id="header" class="site-header header-scrolled position-fixed text-black bg-light">
       <nav id="header-nav" class="navbar navbar-expand-lg px-3 mb-3">
         <div class="container-fluid">
-          <a class="navbar-brand" href="index.html">
+                <a class="navbar-brand" asp-controller="Home" asp-action="Index">
             <img src="/Images/main-logo.png" class="logo">
           </a>
           <button class="navbar-toggler d-flex d-lg-none order-3 p-2" type="button" data-bs-toggle="offcanvas" data-bs-target="#bdNavbar" aria-controls="bdNavbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -143,7 +143,7 @@
           </button>
           <div class="offcanvas offcanvas-end" tabindex="-1" id="bdNavbar" aria-labelledby="bdNavbarOffcanvasLabel">
             <div class="offcanvas-header px-4 pb-0">
-              <a class="navbar-brand" href="index.html">
+                        <a class="navbar-brand" asp-controller="Home" asp-action="Index">
                 <img src="/Images/main-logo.png" class="logo">
               </a>
               <button type="button" class="btn-close btn-close-black" data-bs-dismiss="offcanvas" aria-label="Close" data-bs-target="#bdNavbar"></button>
@@ -155,26 +155,22 @@
                 </li>
                     @if(User.IsInRole("Admin")){
                         <li class="nav-item dropdown">
-                            <a class="nav-link me-4 dropdown-toggle link-dark" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Products</a>
+                            <a class="nav-link me-4 dropdown-toggle link-dark" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Admin Tools</a>
                             <ul class="dropdown-menu">
                                 <li>
-                                    <a asp-action="index" asp-controller="Home" class="dropdown-item">All Products</a>
+                                    <a asp-action="index" asp-controller="AdminDashboard" class="dropdown-item">Dashboard</a>
                                 </li>
                                 <li>
-                                    <a asp-action="index" asp-controller="Product" class="dropdown-item">Product Operations (Admin)</a>
+                                    <a asp-action="index" asp-controller="Product" class="dropdown-item">Product Operations</a>
                                 </li>
-                                    
+                                <li>
+                                    <a asp-action="index" asp-controller="Order" class="dropdown-item">Order Operations</a>
+                                </li>
                             </ul>
                         </li>
                     }else{
-                        <li class="nav-item dropdown">
-                            <a class="nav-link me-4 dropdown-toggle link-dark" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Products</a>
-                            <ul class="dropdown-menu">
-                                <li>
-                                            <a asp-action="index" asp-controller="Home" class="dropdown-item">All Products</a>
-                                </li>
-                               
-                            </ul>
+                        <li class="nav-item">
+                            <a class="nav-link me-4 active" asp-controller="Product" asp-action="ViewProducts">Products</a>
                         </li>
                     }
                     @if (User.IsInRole("Admin"))
@@ -184,48 +180,25 @@
                         </li>
                     }
                    
-                <li class="nav-item">
-                  <a class="nav-link me-4" href="#latest-blog">Blog</a>
-                </li>
-                <li class="nav-item dropdown">
-                  <a class="nav-link me-4 dropdown-toggle link-dark" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Account</a>
-                  <ul class="dropdown-menu">
-                    <li>
-                      <a href="about.html" class="dropdown-item">About</a>
+                    <li class="nav-item">
+                            <a class="nav-link me-4" asp-controller="Home" asp-action="About">About</a>
                     </li>
-                    <li>
-                      <a href="blog.html" class="dropdown-item">Blog</a>
+                    <li class="nav-item">
+                            <a class="nav-link me-4" asp-controller="Home" asp-action="Contact">Contact Us</a>
                     </li>
-                    <li>
-                      <a href="shop.html" class="dropdown-item">Shop</a>
-                    </li>
-                    <li>
-                      <a href="cart.html" class="dropdown-item">Cart</a>
-                    </li>
-                    <li>
-                      <a href="checkout.html" class="dropdown-item">Checkout</a>
-                    </li>
-                    <li>
-                      <a href="single-post.html" class="dropdown-item">Single Post</a>
-                    </li>
-                    <li>
-                      <a href="single-product.html" class="dropdown-item">Single Product</a>
-                    </li>
-                    <li>
-                      <a href="contact.html" class="dropdown-item">Contact</a>
-                    </li>
-                  </ul>
-                </li>
                 @if (User.Identity.IsAuthenticated)
                     {
+                        @if (User.IsInRole("Customer"))
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link me-4" asp-controller="Order" asp-action="Details">Orders</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link me-4" href="#yearly-sale">Payment</a>
+                            </li>
+                        }
                         <li class="nav-item">
-                            <a class="nav-link me-4" href="#smart-watches">Orders</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link me-4" href="#yearly-sale">Payment</a>
-                        </li>
-                        <li class="nav-item">
-                                    <a class="nav-link me-4" asp-controller="Account" asp-action="SignOut">SignOut</a>
+                            <a class="nav-link me-4" asp-controller="Account" asp-action="SignOut">SignOut</a>
                         </li>
                     }
                     else
@@ -255,7 +228,7 @@
                         </a>
                       </li>
                       <li>
-                        <a href="cart.html">
+                        <a asp-action="Index" asp-controller="Cart">
                           <svg class="cart">
                             <use xlink:href="#cart"></use>
                           </svg>
@@ -282,11 +255,8 @@
         </div>
     </div>
 </section>
-    <!-- Footer -->
     <footer class="bg-body-tertiary text-center">
-        <!-- Grid container -->
         <div class="container p-4">
-            <!-- Section: Social media -->
             <section class="mb-4">
                 <!-- Facebook -->
                 <a data-mdb-ripple-init class="btn btn-outline btn-floating m-1" href="#!" role="button">
@@ -318,42 +288,27 @@
                     <i class="fab fa-github"></i>
                 </a>
             </section>
-            <!-- Section: Social media -->
-            <!-- Section: Form -->
-            <section class="">
+            <section class="footer">
                 <form action="">
-                    <!--Grid row-->
                     <div class="row d-flex justify-content-center">
-                        <!--Grid column-->
                         <div class="col-auto">
                             <p class="pt-2">
                                 <strong>Sign up for our newsletter</strong>
                             </p>
                         </div>
-                        <!--Grid column-->
-                        <!--Grid column-->
                         <div class="col-md-5 col-12">
-                            <!-- Email input -->
                             <div data-mdb-input-init class="form-outline mb-4">
                                 <input type="email" id="form5Example24" class="form-control" />
-                                <label class="form-label" for="form5Example24">Email address</label>
                             </div>
                         </div>
-                        <!--Grid column-->
-                        <!--Grid column-->
                         <div class="col-auto">
-                            <!-- Submit button -->
-                            <button data-mdb-ripple-init type="submit" class="btn btn-outline mb-4">
+                            <button data-mdb-ripple-init type="submit" class="btn btn-outline mb-4 btn-outline-success ">
                                 Subscribe
                             </button>
                         </div>
-                        <!--Grid column-->
                     </div>
-                    <!--Grid row-->
                 </form>
             </section>
-            <!-- Section: Form -->
-            <!-- Section: Text -->
             <section class="mb-4">
                 <p>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt distinctio earum

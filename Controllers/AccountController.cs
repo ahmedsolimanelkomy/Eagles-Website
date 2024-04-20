@@ -42,7 +42,7 @@ namespace Eagles_Website.Controllers
                 if (result.Succeeded)
                 {
                     
-                    await userManager.AddToRoleAsync(applicationUser, "Customer");
+                    await userManager.AddToRoleAsync(applicationUser, "Admin");
                     await signInManager.SignInAsync(applicationUser, false);
                     unitOfWork.CartRepo.add(new Cart()
                     {
@@ -68,7 +68,6 @@ namespace Eagles_Website.Controllers
         {
             if (ModelState.IsValid)
             {
-                //check Valida Account alread name & password (user)
                 ApplicationUser userModel =
                     await userManager.FindByNameAsync(LoggedInCustomer.UserName);
                 if (userModel != null)

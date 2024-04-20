@@ -174,5 +174,11 @@ namespace Eagles_Website.Controllers
             return RedirectToAction("Index");
 
         }
+
+        public ActionResult ViewProducts()
+        {
+            var p = UnitOFWork.ProductRepo.GetAll();
+            return View(p);
+        }
     }
 }

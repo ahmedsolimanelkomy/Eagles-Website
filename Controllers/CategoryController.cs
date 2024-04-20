@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Eagles_Website.Controllers
 {
+    [Authorize(Roles = "Admin")]
     public class CategoryController : Controller
     {
         private readonly IUnitOFWork UnitOFWork;
