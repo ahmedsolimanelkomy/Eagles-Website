@@ -67,7 +67,7 @@ namespace Eagles_Website.Controllers
             OrderViewModel.CartID = CartDB.ID;
             OrderViewModel.TotalAmount = CartDB.CartItems.Count;
             OrderViewModel.OrderDate = DateTime.Now;
-            Order order = new Order();
+            //Order order = new Order();
             unitOFWork.OrderRepo.save();
             return View("CreateOrder",OrderViewModel);
         }

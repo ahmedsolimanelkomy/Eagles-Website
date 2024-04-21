@@ -1,3 +1,4 @@
+using Day1.Hubs;
 using Eagles_Website.Models;
 using Eagles_Website.Repository;
 using Eagles_Website.Repository.IRepository;
@@ -30,7 +31,7 @@ namespace Eagles_Website
                });
             builder.Services.AddScoped<IUnitOFWork, UnitOfWork>();
             builder.Services.AddScoped<ProductCategoryViewModel, ProductCategoryViewModel>();
-           
+            builder.Services.AddSignalR();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -48,7 +49,7 @@ namespace Eagles_Website
             app.UseSession();
             app.UseAuthentication();
             app.UseAuthorization();
-
+            app.MapHub<ProductHub>("/ProductHub");
             app.MapControllerRoute(
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}/{id?}");

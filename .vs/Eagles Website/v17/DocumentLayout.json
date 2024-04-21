@@ -3,36 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|c:\\users\\ahmed\\desktop\\mvc project\\eagles website\\eagles-website\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|c:\\users\\ahmed\\desktop\\mvc project\\eagles website\\eagles-website\\views\\shared\\_templatelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|solutionrelative:views\\shared\\_templatelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|c:\\users\\ahmed\\desktop\\mvc project\\eagles website\\eagles-website\\views\\product\\viewproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|solutionrelative:views\\product\\viewproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|c:\\users\\ahmed\\desktop\\mvc project\\eagles website\\eagles-website\\wwwroot\\css\\product\\productview.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|solutionrelative:wwwroot\\css\\product\\productview.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|c:\\users\\ahmed\\desktop\\mvc project\\eagles website\\eagles-website\\wwwroot\\js\\viewproducts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|solutionrelative:wwwroot\\js\\viewproducts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|c:\\users\\ahmed\\desktop\\mvc project\\eagles website\\eagles-website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|c:\\users\\ahmed\\desktop\\mvc project\\eagles website\\eagles-website\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|c:\\users\\ahmed\\desktop\\mvc project\\eagles website\\eagles-website\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|c:\\users\\ahmed\\desktop\\mvc project\\eagles website\\eagles-website\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|c:\\users\\ahmed\\desktop\\mvc project\\eagles website\\eagles-website\\wwwroot\\css\\signin\\signin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|solutionrelative:wwwroot\\css\\signin\\signin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|c:\\users\\ahmed\\desktop\\mvc project\\eagles website\\eagles-website\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|c:\\users\\ahmed\\desktop\\mvc project\\eagles website\\eagles-website\\hubs\\producthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|solutionrelative:hubs\\producthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,107 +46,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
-              "ToolTip": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "Controllers\\OrderController.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAAAEUAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T12:48:56.285Z",
+              "DocumentIndex": 1,
+              "Title": "ViewProducts.js",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\js\\ViewProducts.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\ViewProducts.js",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\js\\ViewProducts.js",
+              "RelativeToolTip": "wwwroot\\js\\ViewProducts.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-21T23:44:24.882Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACIAAACAmZmZmZklwDMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:40:30.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ViewProducts.cshtml",
               "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Views\\Product\\ViewProducts.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\ViewProducts.cshtml",
               "ToolTip": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Views\\Product\\ViewProducts.cshtml",
               "RelativeToolTip": "Views\\Product\\ViewProducts.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA6AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-20T12:42:11.425Z",
+              "WhenOpened": "2024-04-21T13:39:54.533Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProductView.css",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\css\\Product\\ProductView.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\Product\\ProductView.css",
-              "ToolTip": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\css\\Product\\ProductView.css",
-              "RelativeToolTip": "wwwroot\\css\\Product\\ProductView.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-20T12:41:19.24Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AQIAAKQAAAAAAAAAAAAAALUAAAAtAAAA",
+              "ViewState": "AQIAAEAAAAAAyMzMzMwUwFQAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T12:18:42.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T12:45:29.253Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "signin.css",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\css\\SignIn\\signin.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\SignIn\\signin.css",
-              "ToolTip": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\css\\SignIn\\signin.css",
-              "RelativeToolTip": "wwwroot\\css\\SignIn\\signin.css",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAAACMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-20T07:58:11.112Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "Views\\Account\\Register.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAABsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-20T07:31:49.178Z",
-              "EditorCaption": ""
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T12:44:03.65Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "Views\\Account\\Login.cshtml",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-20T07:31:47.84Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_TemplateLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Views\\Shared\\_TemplateLayout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_TemplateLayout.cshtml",
-              "ToolTip": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Views\\Shared\\_TemplateLayout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_TemplateLayout.cshtml",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAABIAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-20T07:19:02.86Z",
-              "EditorCaption": ""
+              "Title": "ProductHub.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Hubs\\ProductHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\ProductHub.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Hubs\\ProductHub.cs",
+              "RelativeToolTip": "Hubs\\ProductHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T12:42:25.146Z"
             }
           ]
         }

@@ -1,9 +1,11 @@
-﻿using Eagles_Website.Models;
+﻿using Day1.Hubs;
+using Eagles_Website.Models;
 using Eagles_Website.Repository;
 using Eagles_Website.Repository.IRepository;
 using Eagles_Website.ViewModels;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.SignalR;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
 namespace Eagles_Website.Controllers
@@ -12,11 +14,13 @@ namespace Eagles_Website.Controllers
     {
         private readonly IUnitOFWork UnitOFWork;
         private readonly IWebHostEnvironment WebHostEnvironment;
+        private readonly IHubContext<ProductHub> ProductHub;
 
-        public ProductController(IUnitOFWork UnitOFWork, IWebHostEnvironment WebHostEnvironment)
+        public ProductController(IUnitOFWork UnitOFWork, IWebHostEnvironment WebHostEnvironment, IHubContext<ProductHub> ProductHub)
         {
             this.UnitOFWork = UnitOFWork;
             this.WebHostEnvironment = WebHostEnvironment;
+            this.ProductHub = ProductHub;
         }
         // GET: ProductController
         public ActionResult Index()
@@ -76,7 +80,11 @@ namespace Eagles_Website.Controllers
 
                         UnitOFWork.ProductRepo.add(Product);
                         UnitOFWork.ProductRepo.save();
-                        return RedirectToAction(nameof(Index));
+                        ProductHub.Clients.All.SendAsync("NewProductAdded", new {ID = Product.ID, Name = Product.Name, Image = Product.Image,
+                         ImageUrl = Product.ImageUrl, Description = Product.Description,Category = Product.Category,
+                            CategoryId = Product.CategoryId
+                        });
+                    return RedirectToAction(nameof(Index));
                     }
 
 

@@ -1604,3 +1604,4 @@ C:\Users\ahmed\Desktop\MVC Project\Eagles Website\Eagles-Website\obj\Debug\net7.
 C:\Users\ahmed\Desktop\MVC Project\Eagles Website\Eagles-Website\obj\Debug\net7.0\Eagles Website.pdb
 C:\Users\ahmed\Desktop\MVC Project\Eagles Website\Eagles-Website\obj\Debug\net7.0\Eagles Website.genruntimeconfig.cache
 C:\Users\ahmed\Desktop\MVC Project\Eagles Website\Eagles-Website\obj\Debug\net7.0\ref\Eagles Website.dll
+C:\Users\ahmed\Desktop\MVC Project\Eagles Website\Eagles-Website\bin\Debug\net7.0\libman.json
