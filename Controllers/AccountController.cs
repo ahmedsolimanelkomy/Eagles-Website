@@ -115,8 +115,8 @@ namespace Eagles_Website.Controllers
                         userModel.PhoneNumber = requiredToEditCustomer.PhoneNumber;
                         userModel.Address = requiredToEditCustomer.Address;
                         userModel.UserName = requiredToEditCustomer.FullName;
-                        //IdentityResult result = await userManager.ChangePasswordAsync(userModel, requiredToEditCustomer.OldPassword, requiredToEditCustomer.NewPassword);
-                        IdentityResult result = await userManager.UpdateAsync(userModel);
+                        await userManager.ChangePasswordAsync(userModel, requiredToEditCustomer.OldPassword, requiredToEditCustomer.NewPassword);
+                        await userManager.UpdateAsync(userModel);
                         LoggedInCustomer loggedInCustomer = new LoggedInCustomer();
                         loggedInCustomer.UserName = requiredToEditCustomer.FullName;
                         loggedInCustomer.Password = requiredToEditCustomer.OldPassword;

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iXo5/xwmMIk+Ek9DRoZDYONfGTmqC1SWLAFBzEHV58I=",
+  "Hash": "qNFU8ySiq2Ik6yJAUChU3RzHSy79Fs/l8AtM+HwkWa8=",
   "Source": "Eagles Website",
   "BasePath": "_content/Eagles Website",
   "Mode": "Default",
@@ -967,6 +967,25 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\2540b7b1-373f-4482-b3cb-f3d04340ba57_m.jpg"
     },
     {
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\25ef851d-ee24-457e-83c2-40c46b9d3375_2.webp",
+      "SourceId": "Eagles Website",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\",
+      "BasePath": "_content/Eagles Website",
+      "RelativePath": "Images/Product/25ef851d-ee24-457e-83c2-40c46b9d3375_2.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Product\\25ef851d-ee24-457e-83c2-40c46b9d3375_2.webp"
+    },
+    {
       "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\27770720-7f1e-47ad-a7b0-260cdc54bff1_5.webp",
       "SourceId": "Eagles Website",
       "SourceType": "Discovered",
@@ -1478,6 +1497,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\Product\\d1bf347d-df1f-472a-a7d4-8a978289b917_m.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\d79fbdb1-6633-45a4-8fcc-d6d421fec5e0_1.jpg",
+      "SourceId": "Eagles Website",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\",
+      "BasePath": "_content/Eagles Website",
+      "RelativePath": "Images/Product/d79fbdb1-6633-45a4-8fcc-d6d421fec5e0_1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Product\\d79fbdb1-6633-45a4-8fcc-d6d421fec5e0_1.jpg"
     },
     {
       "Identity": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\db39fea9-32dd-475e-9ac6-bc4293b264ca_9W5g5.png",
