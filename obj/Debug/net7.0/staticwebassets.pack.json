@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\Eagles Website.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Carosel\\Electronic.avif",
+      "PackagePath": "staticwebassets\\Images\\Carosel\\Electronic.avif"
+    },
+    {
       "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Carosel\\detegent.jpg",
       "PackagePath": "staticwebassets\\Images\\Carosel\\detegent.jpg"
     },
@@ -27,6 +31,18 @@
     {
       "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Logo.png",
       "PackagePath": "staticwebassets\\Images\\Logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\05f3f21f-1824-428d-b315-2e01fc4175c6_7.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\05f3f21f-1824-428d-b315-2e01fc4175c6_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\06b98582-d7ba-43fd-9fbc-9c23ed7e3d17_11.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\06b98582-d7ba-43fd-9fbc-9c23ed7e3d17_11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\0baff07e-b8dd-4839-8b50-68a485b31355_12.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\0baff07e-b8dd-4839-8b50-68a485b31355_12.jpg"
     },
     {
       "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\13fded93-8b7e-4f9b-b60e-2d9020ed735b_1.jpg",
@@ -57,6 +73,22 @@
       "PackagePath": "staticwebassets\\Images\\Product\\30e92f9d-f180-4c4a-99c0-ab52852b3e2f_a.jpg"
     },
     {
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\3126a5b1-fc46-4aee-b8c1-84eab3f97c22_5.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\3126a5b1-fc46-4aee-b8c1-84eab3f97c22_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\33692fe1-b5f3-401d-ad80-a7251a961d96_3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\33692fe1-b5f3-401d-ad80-a7251a961d96_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\35e7cbcb-61bb-441e-9b36-e8c97e6054e5_2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\35e7cbcb-61bb-441e-9b36-e8c97e6054e5_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\3702df93-54b5-42c6-b651-d65fd09b56c3_8.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\3702df93-54b5-42c6-b651-d65fd09b56c3_8.jpg"
+    },
+    {
       "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\3803fdf5-1f99-48a4-b8bd-a8d32ec8a81f_m.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\3803fdf5-1f99-48a4-b8bd-a8d32ec8a81f_m.jpg"
     },
@@ -73,12 +105,40 @@
       "PackagePath": "staticwebassets\\Images\\Product\\43aba9a6-1f2d-4f06-914c-b344643dfc91_m.jpg"
     },
     {
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\466fa729-e65a-4981-819a-d6bf1792b9ed_8.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\466fa729-e65a-4981-819a-d6bf1792b9ed_8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\46880619-da98-4bf4-a755-fe1d0b8751bf_1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\46880619-da98-4bf4-a755-fe1d0b8751bf_1.jpg"
+    },
+    {
       "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\4ae4f58c-d466-494e-acf2-302addedaad3_m.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\4ae4f58c-d466-494e-acf2-302addedaad3_m.jpg"
     },
     {
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\4e12d2a6-1894-4571-9b9c-38fa9bb17c98_14.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\4e12d2a6-1894-4571-9b9c-38fa9bb17c98_14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\5049726d-0f5b-4e51-9c77-394d6aa05b95_9.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\5049726d-0f5b-4e51-9c77-394d6aa05b95_9.jpg"
+    },
+    {
       "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\5083bc1c-3445-4a00-9f8e-ea5ce2980123_2.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\5083bc1c-3445-4a00-9f8e-ea5ce2980123_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\50ff2558-d882-4734-966a-fa61547b0486_14.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\50ff2558-d882-4734-966a-fa61547b0486_14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\53a487d6-bfd5-479f-b846-9b72c3fbfcc2_13.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\53a487d6-bfd5-479f-b846-9b72c3fbfcc2_13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\55e37218-2496-4395-85d9-cb445e2e3542_2.png",
+      "PackagePath": "staticwebassets\\Images\\Product\\55e37218-2496-4395-85d9-cb445e2e3542_2.png"
     },
     {
       "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\58b20cf2-f4c5-4cc6-acaf-402730cd3759_m.jpg",
@@ -101,8 +161,28 @@
       "PackagePath": "staticwebassets\\Images\\Product\\643724a9-0796-4573-bcb7-b1387a6ca4b3_5.webp"
     },
     {
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\6f2ee989-cfee-4f01-b841-90a563ad0ec0_10.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\6f2ee989-cfee-4f01-b841-90a563ad0ec0_10.jpg"
+    },
+    {
       "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\6faa2668-72f5-4420-9103-153a2bcdc4f2_Apple.jfif",
       "PackagePath": "staticwebassets\\Images\\Product\\6faa2668-72f5-4420-9103-153a2bcdc4f2_Apple.jfif"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\73810d21-1707-4ae8-8f69-036742a65202_iPhone.avif",
+      "PackagePath": "staticwebassets\\Images\\Product\\73810d21-1707-4ae8-8f69-036742a65202_iPhone.avif"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\7c4cbe07-f610-42d1-8b9b-cab4d9923189_15.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\7c4cbe07-f610-42d1-8b9b-cab4d9923189_15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\7d9d02a5-a450-4ffa-8de1-3383896368be_12.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\7d9d02a5-a450-4ffa-8de1-3383896368be_12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\7fe4e165-c543-4dbf-b580-b0a7250478e6_6.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\7fe4e165-c543-4dbf-b580-b0a7250478e6_6.jpg"
     },
     {
       "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\81519f44-82fb-4de2-b464-5825366ab2be_a.jpg",
@@ -121,20 +201,60 @@
       "PackagePath": "staticwebassets\\Images\\Product\\8af610d5-c3d6-4dc9-ac50-8e8a577a0838_10.jpg"
     },
     {
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\8c3ec1e6-9043-4faf-93a7-84f97f9003fc_15.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\8c3ec1e6-9043-4faf-93a7-84f97f9003fc_15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\8d1e286d-d549-42c3-83c6-bdd5ae4df2b2_10.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\8d1e286d-d549-42c3-83c6-bdd5ae4df2b2_10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\910760ca-d31c-40b4-a654-1f49132e6784_8.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\910760ca-d31c-40b4-a654-1f49132e6784_8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\93aada4f-e174-4f55-a1a9-79a6b107893a_1.png",
+      "PackagePath": "staticwebassets\\Images\\Product\\93aada4f-e174-4f55-a1a9-79a6b107893a_1.png"
+    },
+    {
       "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\970fe53a-b3f4-4cd0-a508-cf54f95dbbe6_JQuery.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\970fe53a-b3f4-4cd0-a508-cf54f95dbbe6_JQuery.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\994730d6-1555-4831-8deb-1d7161ca06a7_5.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\994730d6-1555-4831-8deb-1d7161ca06a7_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\99a721ee-6785-4982-a248-d34c0964fb1b_1.png",
+      "PackagePath": "staticwebassets\\Images\\Product\\99a721ee-6785-4982-a248-d34c0964fb1b_1.png"
     },
     {
       "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\9b98ffec-23ab-4f14-a226-366d7e203e21_a.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\9b98ffec-23ab-4f14-a226-366d7e203e21_a.jpg"
     },
     {
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\9f8a9592-71bb-479d-a8c6-85c25c3d0259_11.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\9f8a9592-71bb-479d-a8c6-85c25c3d0259_11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\a3da62c9-a498-4611-8ef3-a7ec0d3c5dd0_4.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\a3da62c9-a498-4611-8ef3-a7ec0d3c5dd0_4.jpg"
+    },
+    {
       "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\a67cb1e8-f90c-4287-9f7f-e5519c9fb466_6.webp",
       "PackagePath": "staticwebassets\\Images\\Product\\a67cb1e8-f90c-4287-9f7f-e5519c9fb466_6.webp"
     },
     {
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\abab3131-531e-4e50-922d-5f4418a9ffc3_2.png",
+      "PackagePath": "staticwebassets\\Images\\Product\\abab3131-531e-4e50-922d-5f4418a9ffc3_2.png"
+    },
+    {
       "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\b498050a-6f29-453b-8039-3dce519791c7_a.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\b498050a-6f29-453b-8039-3dce519791c7_a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\bbd12eb5-004c-4622-a470-c3aa5611cc0d_4.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\bbd12eb5-004c-4622-a470-c3aa5611cc0d_4.jpg"
     },
     {
       "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\c570367f-7e8b-4cc5-b4f5-b4470136c554_3348901486385_1_ab7855f7-2b52-4e38-90c9-ca5020a8cd24_450x.webp",
@@ -155,6 +275,14 @@
     {
       "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\d1bf347d-df1f-472a-a7d4-8a978289b917_m.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\d1bf347d-df1f-472a-a7d4-8a978289b917_m.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\d1f523d7-86b0-47b2-a1a1-8b314ea9a5d1_13.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\d1f523d7-86b0-47b2-a1a1-8b314ea9a5d1_13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\d2f2dc3c-8ef8-4fb4-82f6-08cb034b297b_6.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\d2f2dc3c-8ef8-4fb4-82f6-08cb034b297b_6.jpg"
     },
     {
       "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\d79fbdb1-6633-45a4-8fcc-d6d421fec5e0_1.jpg",
@@ -183,6 +311,14 @@
     {
       "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\e3e7178c-c59c-49b9-920a-c23cbf9f5353_3.webp",
       "PackagePath": "staticwebassets\\Images\\Product\\e3e7178c-c59c-49b9-920a-c23cbf9f5353_3.webp"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\e5d1a0e7-eab4-44bc-91d5-a4342ecd4afd_9.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\e5d1a0e7-eab4-44bc-91d5-a4342ecd4afd_9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\e6fc3228-7fa4-4ac8-8a3c-67a224af8d6d_3.png",
+      "PackagePath": "staticwebassets\\Images\\Product\\e6fc3228-7fa4-4ac8-8a3c-67a224af8d6d_3.png"
     },
     {
       "Id": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\wwwroot\\Images\\Product\\e8dab6e9-8a5c-4321-b6a4-b9b8530700e1_11.jpg",

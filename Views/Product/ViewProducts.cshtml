@@ -4,7 +4,8 @@
     ViewData["Title"] = "ViewProducts";
     Layout = "~/Views/Shared/_TemplateLayout.cshtml";
 }
-<link rel="stylesheet" href="./css/Product/ProductView.css" />
+
+<link rel="stylesheet" href="~/css/Product/ProductView.css" />
 
 <section id="mobile-products" class="product-store position-relative padding-large no-padding-top">
     <div class="container">
@@ -18,47 +19,47 @@
                     <button type="button" class="btn btn-primary m-5" data-category-id="@category.ID">@category.Name</button>
                 }
             </div>
-        <div class="row">
+        </div>
 
-            <div class="swiper product-swiper" id="products-container">
-
-                <div class="swiper-wrapper">
-                    @foreach (var product in Model.Products)
-                    {
-                        <div class="swiper-slide">
-
-                            <div class="product-card position-relative product" data-product-category-id="@product.CategoryId">
-                                <div class="image-holder">
-                                    <img src="~/Images/Product/@product.ImageUrl" alt="@product.Name" class="img-fluid" style="width:80%;height:300px">
-                                </div>
-                                <div class="cart-concern position-absolute">
-                                    <div class="cart-button d-flex">
-                                        <a asp-action="Details" asp-controller="Home" asp-route-id="@product.ID" class="btn btn-medium btn-black">Add to Cart<svg class="cart-outline"><use xlink:href="#cart-outline"></use></svg></a>
-                                    </div>
-                                </div>
-                                <div class="card-detail d-flex justify-content-between align-items-baseline pt-3">
-                                    <h3 class="card-title text-uppercase">
-                                        <span class="item-price text-primary">@product.Name</span>
-                                    </h3>
-                                    <span class="item-price text-primary">$@product.Price</span>
+        @foreach (var category in Model.Categories)
+        {
+            <div class="row">
+                @foreach (var product in Model.Products.Where(p => p.CategoryId == category.ID))
+                {
+                    <div class="col-md-3">
+                        <div class="product-card position-relative product" data-product-category-id="@product.CategoryId">
+                            <div class="image-holder">
+                                <img src="~/Images/Product/@product.ImageUrl" alt="@product.Name" class="img-fluid" style="width:100%; height:300px;">
+                            </div>
+                            <div class="cart-concern position-absolute">
+                                <div class="cart-button d-flex">
+                                    <a href="@Url.Action("Details", "Home", new { id = product.ID })" class="btn btn-medium btn-black">Add to Cart <svg class="cart-outline"><use xlink:href="#cart-outline"></use></svg></a>
                                 </div>
                             </div>
-
+                            <div class="card-detail d-flex justify-content-between align-items-baseline pt-3">
+                                <h3 class="card-title text-uppercase" style="font-size: 1.2rem;">@product.Name</h3>
+                                <span class="item-price text-primary" style="font-size: 0.9rem;">$@product.Price</span>
+                            </div>
                         </div>
-                    }
-                </div>
 
+                    </div>
+                }
             </div>
-
-        </div>
+        }
     </div>
-    <div class="swiper-pagination position-absolute text-center"></div>
 </section>
 
 <a href="~/lib/jquery/dist/jquery.min.map"></a>
+<script src="/lib/jquery/dist/jquery.js"></script>
 <script src="~/lib/jquery/dist/jquery.min.js"></script>
-<script src="~/lib/jquery/dist/jquery.js"></script>
-<script src="/lib/microsoft-signalr/signalr.min.js"></script>
-<script src="/lib/microsoft-signalr/signalr.js"></script>
-
+<script src="~/lib/microsoft-signalr/signalr.min.js"></script>
 <script src="~/js/ViewProducts.js"></script>
+<script>
+    $(document).ready(function () {
+        $('.btn-primary').click(function () {
+            var categoryId = $(this).data('category-id');
+            $('.product-card').hide();
+            $('.product-card[data-product-category-id="' + categoryId + '"]').show(); 
+        });
+    });
+</script>

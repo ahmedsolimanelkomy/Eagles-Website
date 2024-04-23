@@ -20,8 +20,7 @@ namespace Eagles_Website.Controllers
         {
             int userid = int.Parse(User.Claims.FirstOrDefault(s => s.Type == ClaimTypes.NameIdentifier)?.Value);
             Cart? cart = _unitOfWork.CartRepo.GetCartwithincludes(c => c.ApplicationUser.Id == userid);
-
-            Cart? cart2 = _unitOfWork.CartRepo.handletotal(cart);
+            _unitOfWork.CartRepo.handletotal(cart);
             return View(cart);
         }
         public IActionResult plus(int cartitemid)

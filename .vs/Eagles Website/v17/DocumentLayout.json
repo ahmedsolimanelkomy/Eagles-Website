@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|c:\\users\\ahmed\\desktop\\mvc project\\eagles website\\eagles-website\\views\\account\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|solutionrelative:views\\account\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|c:\\users\\ahmed\\desktop\\mvc project\\eagles website\\eagles-website\\views\\order\\createorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|solutionrelative:views\\order\\createorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|c:\\users\\ahmed\\desktop\\mvc project\\eagles website\\eagles-website\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|c:\\users\\ahmed\\desktop\\mvc project\\eagles website\\eagles-website\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|solutionrelative:views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,27 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Views\\Account\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Views\\Account\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Account\\Edit.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAAbAAAA",
+              "Title": "CreateOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Views\\Order\\CreateOrder.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\CreateOrder.cshtml",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Views\\Order\\CreateOrder.cshtml",
+              "RelativeToolTip": "Views\\Order\\CreateOrder.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-22T04:54:44.501Z",
+              "WhenOpened": "2024-04-23T16:00:14.069Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AQIAAEMAAAAAzszMzMwUwCQAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T04:51:04.086Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "Views\\Order\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T15:59:55.505Z",
               "EditorCaption": ""
             }
           ]

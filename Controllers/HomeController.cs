@@ -30,12 +30,12 @@ namespace Eagles_Website.Controllers
         [HttpGet]
         public IActionResult Details(int id)
         {
-            CartItem c = new CartItem()
+            CartItem CartItem = new CartItem()
             {
                 Product = _unitOfWork.ProductRepo.Get(c => c.ID == id, "Category"),
                 ProductID = id
             };
-            return View(c);
+            return View(CartItem);
         }
         [HttpPost]
         [Authorize]
@@ -62,7 +62,7 @@ namespace Eagles_Website.Controllers
             }
 
             _unitOfWork.CartItemRepo.save();
-            return RedirectToAction("Index");
+            return RedirectToAction("Index","Cart");
         }
 
         public IActionResult Privacy()

@@ -1,11 +1,5 @@
 // productScript.js
 $(document).ready(function () {
-    $('.btn-primary').click(function () {
-        var categoryId = $(this).data('category-id');
-        $('.product').hide();
-        $('.product[data-product-category-id="' + categoryId + '"]').show();
-    });
-
     var hub = new signalR.HubConnectionBuilder().withUrl("/ProductHub").build();
     hub.start().then(function () {
         console.log("Connection Success");
