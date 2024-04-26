@@ -2,15 +2,13 @@
 
 @{
     ViewData["Title"] = "Create";
-    SelectList CategoriesList = new SelectList(Model.Categories,"ID","Name");
+    SelectList CategoriesList = new SelectList(Model.Categories, "ID", "Name");
 }
 
-<h1>Create</h1>
+<h1 class="text-center">Create Product</h1>
 
-<h4>Product</h4>
-<hr />
-<div class="row">
-    <div class="col-md-4">
+<div class="row justify-content-center">
+    <div class="col-md-6">
         <form asp-action="Create" enctype="multipart/form-data">
             <div asp-validation-summary="All" class="text-danger"></div>
             <div class="form-group">
@@ -28,10 +26,6 @@
                 <input asp-for="@Model.Product.Description" class="form-control" />
                 <span asp-validation-for="@Model.Product.Description" class="text-danger"></span>
             </div>
-            @* <div class="form-group">
-                <label class="control-lable">Image</label>
-                <input type="file" name="Image" class="control-file"/>
-            </div> *@
             <div class="form-group">
                 <label asp-for="@Model.Product.Quantity" class="control-label"></label>
                 <input asp-for="@Model.Product.Quantity" class="form-control" />
@@ -39,30 +33,43 @@
             </div>
             <div class="form-group">
                 <label asp-for="@Model.Product.CategoryId" class="control-label">Categories</label>
-                <select asp-for="@Model.Product.CategoryId"
-                        asp-items="CategoriesList"
-                        class="form form-control">
-                        <option value="0"> ---Select Category --- </option>
+                <select asp-for="@Model.Product.CategoryId" asp-items="CategoriesList" class="form form-control">
+                    <option value="0"> ---Select Category --- </option>
                 </select>
                 <span asp-validation-for="@Model.Product.CategoryId" class="text-danger"></span>
-            </div><br />
+            </div>
             <div class="form-group">
                 <label asp-for="@Model.Product.Image" class="control-label"></label>
-                <input asp-for="@Model.Product.Image" class="form-control" />
+                <input type="file" asp-for="@Model.Product.Image" class="form-control-file" />
                 <span asp-validation-for="@Model.Product.Image" class="text-danger"></span>
             </div>
-            <div class="form-group">
+            <div class="form-group text-center">
                 <input type="submit" value="Create" class="btn btn-primary" />
             </div>
-           
         </form>
     </div>
 </div>
 
-<div>
-    <a asp-action="Index">Back to List</a>
+<div class="text-center mt-3">
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
 </div>
 
 @section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
 }
+
+<style>
+    .form-group {
+        margin-bottom: 20px;
+    }
+
+    .form-control {
+        border-radius: 10px;
+    }
+
+    .btn {
+        border-radius: 10px;
+    }
+</style>

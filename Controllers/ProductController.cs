@@ -25,7 +25,7 @@ namespace Eagles_Website.Controllers
         // GET: ProductController
         public ActionResult Index()
         {
-            List<Product> Products = UnitOFWork.ProductRepo.GetAll().ToList();
+            List<Product> Products = UnitOFWork.ProductRepo.GetAll("Category").ToList();
             return View("Index", Products);
         }
 

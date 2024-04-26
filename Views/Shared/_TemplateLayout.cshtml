@@ -152,7 +152,10 @@
             <div class="offcanvas-body">
               <ul id="navbar" class="navbar-nav text-uppercase justify-content-end align-items-center flex-grow-1 pe-3">
                 <li class="nav-item">
-                  <a class="nav-link me-4 active"  asp-controller="Home" asp-action="Index">Home</a>
+                    <a class="nav-link me-4"  asp-controller="Home" asp-action="Index">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link me-4" asp-controller="Product" asp-action="ViewProducts" class="dropdown-item">Products</a>
                 </li>
                     @if(User.IsInRole("Admin")){
                         <li class="nav-item dropdown">
@@ -167,26 +170,20 @@
                                 <li>
                                     <a asp-action="index" asp-controller="Order" class="dropdown-item">Order Operations</a>
                                 </li>
+                                <li>
+                                    <a asp-controller="Category" asp-action="Index" class="dropdown-item">Categories</a>
+                                </li>
                             </ul>
                         </li>
                     }else{
                         <li class="nav-item">
-                            <a class="nav-link me-4 active" asp-controller="Product" asp-action="ViewProducts">Products</a>
+                            <a class="nav-link me-4" asp-controller="Home" asp-action="About">About</a>
                         </li>
-                    }
-                    @if (User.IsInRole("Admin"))
-                    {
                         <li class="nav-item">
-                            <a class="nav-link me-4" asp-controller="Category" asp-action="Index">Categories</a>
+                            <a class="nav-link me-4" asp-controller="Home" asp-action="Contact">Contact Us</a>
                         </li>
                     }
                    
-                    <li class="nav-item">
-                            <a class="nav-link me-4" asp-controller="Home" asp-action="About">About</a>
-                    </li>
-                    <li class="nav-item">
-                            <a class="nav-link me-4" asp-controller="Home" asp-action="Contact">Contact Us</a>
-                    </li>
                 @if (User.Identity.IsAuthenticated)
                     {
                         @if (User.IsInRole("Customer"))
@@ -225,13 +222,16 @@
                           </svg>
                         </a>
                       </li>
-                      <li>
-                        <a asp-action="Index" asp-controller="Cart">
-                          <svg class="cart">
-                            <use xlink:href="#cart"></use>
-                          </svg>
-                        </a>
-                      </li>
+                      @if (User.IsInRole("Customer"))
+                        {
+                            <li>
+                                <a asp-action="Index" asp-controller="Cart">
+                                  <svg class="cart">
+                                    <use xlink:href="#cart"></use>
+                                  </svg>
+                                </a>
+                            </li>
+                        }
                     </ul>
                   </div>
                 </li>

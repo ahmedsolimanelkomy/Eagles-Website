@@ -21,6 +21,9 @@
                 <th>
                     @Html.DisplayNameFor(model => model.Description)
                 </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Products.Count)
+                </th>
                 <th></th>
             </tr>
         </thead>
@@ -38,6 +41,9 @@
                         @Html.DisplayFor(modelItem => item.Description)
                     </td>
                     <td>
+                        @Html.DisplayFor(modelItem => item.Products.Count)
+                    </td>
+                    <td>
                         @Html.ActionLink("Edit", "Edit", item) |
                         @Html.ActionLink("Details", "Details", item) |
                         @Html.ActionLink("Delete", "Delete", item)
@@ -52,10 +58,10 @@
         await Html.RenderPartialAsync("_ValidationScriptsPartial");
     }
 
-    <a href="~/lib/jquery/dist/jquery.min.map"></a>
+@*     <a href="~/lib/jquery/dist/jquery.min.map"></a>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/jquery/dist/jquery.js"></script>    <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
     <script type="text/javascript" src="/js/bootstrap.bundle.min.js"></script>
     <script type="text/javascript" src="/js/plugins.js"></script>
-    <script type="text/javascript" src="/js/script.js"></script>
+    <script type="text/javascript" src="/js/script.js"></script> *@
 }

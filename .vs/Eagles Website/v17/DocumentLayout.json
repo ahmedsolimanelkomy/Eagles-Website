@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|c:\\users\\ahmed\\desktop\\mvc project\\eagles website\\eagles-website\\views\\order\\createorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|solutionrelative:views\\order\\createorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|c:\\users\\ahmed\\desktop\\mvc project\\eagles website\\eagles-website\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|solutionrelative:views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|c:\\users\\ahmed\\desktop\\mvc project\\eagles website\\eagles-website\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|solutionrelative:views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|c:\\users\\ahmed\\desktop\\mvc project\\eagles website\\eagles-website\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|c:\\users\\ahmed\\desktop\\mvc project\\eagles website\\eagles-website\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|solutionrelative:views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|c:\\users\\ahmed\\desktop\\mvc project\\eagles website\\eagles-website\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|c:\\users\\ahmed\\desktop\\mvc project\\eagles website\\eagles-website\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|solutionrelative:views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|c:\\users\\ahmed\\desktop\\mvc project\\eagles website\\eagles-website\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|c:\\users\\ahmed\\desktop\\mvc project\\eagles website\\eagles-website\\repository\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|solutionrelative:repository\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|c:\\users\\ahmed\\desktop\\mvc project\\eagles website\\eagles-website\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F060FD4-F1F1-40FD-B6FF-6EE1A3F22D7F}|Eagles Website.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +42,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Views\\Product\\Details.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAwvTsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T13:13:23.758Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
@@ -31,27 +68,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CreateOrder.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Views\\Order\\CreateOrder.cshtml",
-              "RelativeDocumentMoniker": "Views\\Order\\CreateOrder.cshtml",
-              "ToolTip": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Views\\Order\\CreateOrder.cshtml",
-              "RelativeToolTip": "Views\\Order\\CreateOrder.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Product\\Delete.cshtml",
+              "ViewState": "AQIAACEAAACQmZmZmZkwwDMAAABRAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-23T16:00:14.069Z",
+              "WhenOpened": "2024-04-26T13:13:24.987Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Views\\Order\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Order\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Views\\Order\\Index.cshtml",
-              "RelativeToolTip": "Views\\Order\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAALAAAA",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAABUAAABAZmZmZmYkwCQAAABdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-23T15:59:55.505Z",
+              "WhenOpened": "2024-04-26T13:12:01.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAABcAAACAmZmZmZkdwCAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:10:03.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Product\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T13:07:34.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AQIAAFIAAAAANDMzMzMvwFwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:54:09.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Repository\\OrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\OrderDetailRepository.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Repository\\OrderDetailRepository.cs",
+              "RelativeToolTip": "Repository\\OrderDetailRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:54:05.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\MVC Project\\Eagles Website\\Eagles-Website\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAuwBwAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:51:15.882Z",
               "EditorCaption": ""
             }
           ]

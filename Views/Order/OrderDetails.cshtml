@@ -1,0 +1,50 @@
+﻿@model Eagles_Website.Models.Order
+
+@{
+    ViewData["Title"] = "Order Details";
+    Layout = "~/Views/Shared/_TemplateLayout.cshtml";
+}
+
+<h1 class="mt-4">Order Details</h1>
+
+<div class="row justify-content-center">
+    <div class="col-md-8">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Order</h4>
+                <hr />
+                <dl class="row">
+                    <dt class="col-sm-3">Order ID:</dt>
+                    <dd class="col-sm-9">@Html.DisplayFor(model => model.ID)</dd>
+                    <dt class="col-sm-3">User ID:</dt>
+                    <dd class="col-sm-9">@Html.DisplayFor(model => model.UserID)</dd>
+                    <dt class="col-sm-3">Order Date:</dt>
+                    <dd class="col-sm-9">@Html.DisplayFor(model => model.OrderDate)</dd>
+                    <dt class="col-sm-3">Total Amount:</dt>
+                    <dd class="col-sm-9">@Html.DisplayFor(model => model.TotalAmount)</dd>
+                </dl>
+            </div>
+        </div><br />
+        <div>
+            @Html.ActionLink("Edit", "Edit", Model, new { @class = "btn btn-primary" })
+            <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+
+<style>
+    .card {
+        margin-top: 20px;
+    }
+
+    .card-title {
+        font-weight: bold;
+    }
+</style>

@@ -6,10 +6,6 @@
 }
 
 <h1>Index</h1>
-
-<p>
-    <a asp-action="Order" asp-controller="CreateOrder">Create New</a>
-</p>
 <table class="table">
     <thead>
         <tr>
@@ -44,9 +40,9 @@
                 @Html.DisplayFor(modelItem => item.TotalAmount)
             </td>
             <td>
-                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Details", "Details", new {id = item.ID}) |
-                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                @Html.ActionLink("Edit", "Edit", item) |
+                @Html.ActionLink("Order Details", "OrderDetails", item) |
+                @Html.ActionLink("Delete", "Delete", item)
             </td>
         </tr>
 }

@@ -3,15 +3,14 @@
 @{
     ViewData["Title"] = "Edit";
     SelectList CategoriesList = new SelectList(Model.Categories, "ID", "Name");
-
 }
 
-<h1>Edit</h1>
+<h1 class="mt-4">Edit Product</h1>
 
-<h4>Product</h4>
 <hr />
+
 <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-8">
         <form asp-action="SaveEdit" enctype="multipart/form-data">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group" hidden>
@@ -20,51 +19,58 @@
                 <span asp-validation-for="@Model.Product.ID" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="@Model.Product.Name" class="control-label"></label>
+                <label asp-for="@Model.Product.Name" class="control-label">Product Name:</label>
                 <input asp-for="@Model.Product.Name" class="form-control" />
                 <span asp-validation-for="@Model.Product.Name" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="@Model.Product.Price" class="control-label"></label>
+                <label asp-for="@Model.Product.Price" class="control-label">Price:</label>
                 <input asp-for="@Model.Product.Price" class="form-control" />
                 <span asp-validation-for="@Model.Product.Price" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="@Model.Product.Description" class="control-label"></label>
+                <label asp-for="@Model.Product.Description" class="control-label">Description:</label>
                 <input asp-for="@Model.Product.Description" class="form-control" />
                 <span asp-validation-for="@Model.Product.Description" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="@Model.Product.Quantity" class="control-label"></label>
+                <label asp-for="@Model.Product.Quantity" class="control-label">Quantity:</label>
                 <input asp-for="@Model.Product.Quantity" class="form-control" />
                 <span asp-validation-for="@Model.Product.Quantity" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="@Model.Product.CategoryId" class="control-label">Categories</label>
+                <label asp-for="@Model.Product.CategoryId" class="control-label">Category:</label>
                 <select asp-for="@Model.Product.CategoryId"
                         asp-items="CategoriesList"
-                        class="form form-control">
+                        class="form-control">
                     <option value="0"> ---Select Category --- </option>
                 </select>
                 <span asp-validation-for="@Model.Product.CategoryId" class="text-danger"></span>
-            </div><br />
-            <div class="form-group">
-                <label asp-for="@Model.Product.Image" class="control-label"></label>
-                <img src="~/Images/Product/@Model.Product.ImageUrl" />
-                <input asp-for="@Model.Product.Image" class="form-control" />
-                <span asp-validation-for="@Model.Product.Image" class="text-danger"></span>
             </div>
             <div class="form-group">
+                <label asp-for="@Model.Product.Image" class="control-label">Image:</label>
+                <input asp-for="@Model.Product.Image" class="form-control" />
+                <span asp-validation-for="@Model.Product.Image" class="text-danger"></span>
+            </div><br />
+            <div class="form-group">
                 <input type="submit" value="Save" class="btn btn-primary" />
+            </div><br />
+            <div>
+                <a asp-action="Index">Back to List</a>
             </div>
         </form>
     </div>
+    <div class="col-md-4">
+        <div class="text-center">
+            <img src="~/Images/Product/@Model.Product.ImageUrl" class="img-thumbnail" style="max-width: 200px;" />
+        </div>
+    </div>
 </div>
 
-<div>
-    <a asp-action="Index">Back to List</a>
-</div>
+
 
 @section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
 }

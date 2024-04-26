@@ -1,0 +1,55 @@
+﻿@model Eagles_Website.Models.Order
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_TemplateLayout.cshtml";
+}
+
+<h1 class="mt-4">Edit Order</h1>
+
+<hr />
+
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ID" class="control-label order-label">Order ID:</label>
+                <input asp-for="ID" class="form-control" readonly />
+                <span asp-validation-for="ID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UserID" class="control-label order-label">User ID:</label>
+                <input asp-for="UserID" class="form-control" />
+                <span asp-validation-for="UserID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="OrderDate" class="control-label order-label">Order Date:</label>
+                <input asp-for="OrderDate" class="form-control" value="Model.OrderDate"/>
+                <span asp-validation-for="OrderDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TotalAmount" class="control-label order-label">Total Amount:</label>
+                <input asp-for="TotalAmount" class="form-control" />
+                <span asp-validation-for="TotalAmount" class="text-danger"></span>
+            </div> <br />
+            <div class="form-group text-center">
+                <button type="submit" class="btn btn-primary">Save</button>
+                <a asp-action="Index" class="btn btn-secondary ml-2">Cancel</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+
+<style>
+    .order-label {
+        font-weight: bold;
+        color: #333;
+    }
+</style>

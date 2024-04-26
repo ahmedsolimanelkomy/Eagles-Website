@@ -8,7 +8,7 @@
     <h1>Register</h1>
     <hr />
             <form asp-controller="Account" asp-action="SaveRegister" method="post">
-                <img class="mb-4" src="~/Images/Logo.png" alt="" width="72" height="57">
+                <img class="mb-3" src="~/Images/Logo.png" alt="" width="72" height="57">
                 <div asp-validation-summary="ModelOnly" class="text-danger"></div>
                 <div class="form-floating">
                     <input asp-for="UserName" class="form-control" id="floatingInput" placeholder="User Name" />
@@ -47,9 +47,11 @@
                 </div><br />
             <div class="form-floating">
                 <input type="submit" value="Create" class="w-100 btn btn-lg btn-primary" />
-            </div><br /><br />
-             <p class="mt-5 mb-3 text-muted">&copy; Eagles ITI PWD Track 2023 - 2024</p>
-
+            </div>
+            <div class="mt-3 text-center">
+                <p>have an account? <a asp-action="Login" asp-controller="Account">Sign here</a>
+            </div>
+             <p class="mt-3 mb-3 text-muted">&copy; Eagles ITI PWD Track 2023 - 2024</p>
             </form>
             <div>
                 <a asp-action="Index" asp-controller="Home" class="btn btn-secondary">Back to Home</a>
